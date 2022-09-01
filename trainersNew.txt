@@ -1,0 +1,3177 @@
+# See the documentation on the wiki to learn how to edit this file.
+#-------------------
+[POKEMONTRAINER_Cirrus,Cirrus,1]
+LoseText = ""
+Pokemon = LARVESTA,5
+    AbilityIndex = 1
+    Nature = NAIVE
+    IV = 22,22,22,22,22,22
+#-------------------
+[POKEMONTRAINER_Cirrus,Cirrus,2]
+LoseText = ""
+Pokemon = BELDUM,5
+    Nature = SASSY
+    IV = 22,22,22,22,22,22
+#-------------------
+[POKEMONTRAINER_Cirrus,Cirrus,3]
+LoseText = ""
+Pokemon = TOGEPI,5
+    AbilityIndex = 1
+    Nature = CALM
+    IV = 22,22,22,22,22,22
+    Gender = female
+    Moves = METRONOME,,,
+#-------------------
+[CUEBALL,Guy]
+Pokemon = LOTAD,4
+    Gender = male
+Pokemon = CROAGUNK,5
+    Gender = male
+#-------------------
+[PICNICKER,Ginnie]
+Pokemon = FINNEON,2
+    Moves = POUND,NATUREPOWER,,
+#-------------------
+[CAMPER,David]
+Pokemon = NUMEL,2
+    Moves = GROWL,TACKLE,NATUREPOWER,
+#-------------------
+[PICNICKER,Jannis]
+Pokemon = BELLSPROUT,2
+    Moves = VINEWHIP,NATUREPOWER,,
+#-------------------
+[CAMPER,Clayton]
+Pokemon = ROGGENROLA,2
+    Moves = TACKLE,NATUREPOWER,,
+#-------------------
+[IVSCHOOLKID,Jerry]
+Pokemon = RATTATA,2
+    Moves = TAILWHIP,TACKLE,,
+Pokemon = POOCHYENA,3
+    Moves = TACKLE
+#-------------------
+[VIJOGGER,Gale]
+Pokemon = ZIGZAGOON,4
+    Moves = GROWL,TACKLE,,
+Pokemon = TAILLOW,3
+    Moves = PECK,GROWL,,
+    Nature = NAIVE
+#-------------------
+[IVSCHOOLKID,Adam]
+Pokemon = MUNCHLAX,5
+    Item = ORANBERRY
+    Moves = DEFENSECURL,TACKLE,ODORSLEUTH,METRONOME
+    Nature = RELAXED
+    Gender = Male
+    Ability = 2
+#-------------------
+[VIBIRDKEEPER,Cain]
+    Pokemon = PIDGEY,5
+#-------------------
+[IVLASS,Mikki]
+    Pokemon = Oddish,2
+#-------------------
+[IVSCHOOLKIDF,Lucy]
+Pokemon = Hoothoot,2
+#-------------------
+[IVBIRDCATCHER,James,1]
+Pokemon = Hoothoot,5
+    Nature = SASSY
+Pokemon = Taillow,7
+    Nature = NAUGHTY
+#-------------------
+[VSMASHER,Holly]
+Pokemon = LILLIPUP,7
+Pokemon = ODDISH,6
+#-------------------
+[IVYOUNGSTER,Nick]
+Pokemon = COMBEE,5
+Pokemon = POOCHYENA,4
+#-------------------
+[IVBUGCATCHER,Brook]
+Pokemon = WEEDLE,6
+#-------------------
+[IVLASS,Kiarra]
+Pokemon = ODDISH,5
+Pokemon = SCATTERBUG,5
+#-------------------
+[LASS,Ellie]
+Pokemon = CHERUBI,4
+Pokemon = HOOTHOOT,4
+Pokemon = ODDISH,4
+#-------------------
+[BUGCATCHER,Hewie]
+Pokemon = SPINARAK,6
+Pokemon = WURMPLE,6
+#-------------------
+[VAIDE,Sabrina,1]
+Pokemon = VOLBEAT,9
+Pokemon = HAPPINY,8
+#-------------------
+[VAIDE,Sabrina,2]
+Pokemon = VOLBEAT,9
+Pokemon = HAPPINY,9
+#-------------------
+[IVSCHOOLKID,Aaron]
+Pokemon = POOCHYENA,5
+Pokemon = SENTRET,6
+#-------------------
+[TECTONICM,Grunt,1]
+Pokemon = AIPOM,8
+#-------------------
+[TECTONICF,Grunt,1]
+Pokemon = SANDILE,7
+Pokemon = SPEAROW,8
+#-------------------
+[TECTONICM,Grunt,2]
+Pokemon = SPEAROW,8
+Pokemon = VOLTORB,7
+#-------------------
+[TECTONICM,Grunt,3]
+Pokemon = AIPOM,7
+Pokemon = WHISMUR,7
+Pokemon = SANDILE,7
+#-------------------
+[TECTONICF,Grunt,2]
+Pokemon = VOLTORB,9
+#-------------------
+[TECTONICM,Grunt,4]
+Pokemon = WHISMUR,7
+Pokemon = SPEAROW,7
+Pokemon = AIPOM,8
+#-------------------
+[TECTONICM,Grunt,5]
+Pokemon = SPEAROW,7
+Pokemon = SANDILE,7
+Pokemon = SPEAROW,7
+Pokemon = VOLTORB,6
+#-------------------
+[VISWIMMERF,Abby]
+Pokemon = FINNEON,7
+    Moves = POUND,NATUREPOWER,WATERGUN
+Pokemon = LOTAD,7
+#-------------------
+[IVBLACKBELT,Jeremy]
+Pokemon = ROGGENROLA,7
+    Moves = TACKLE,NATUREPOWER,HARDEN,SANDATTACK
+Pokemon = SEEDOT,7
+#-------------------
+[IVLADY,Patience]
+Pokemon = BELLSPROUT,7
+    Moves = VINEWHIP,NATUREPOWER,GROWTH
+Pokemon = LOTAD,7
+#-------------------
+[POKEMANIAC,Draich]
+Pokemon = NUMEL,7
+    Moves = GROWL,NATUREPOWER,TACKLE,EMBER
+Pokemon = SEEDOT,7
+#-------------------
+[IVBIRDCATCHER,James,2]
+Pokemon = Hoothoot,8
+    Nature = SASSY
+Pokemon = TAILLOW,9
+    Nature = NAUGHTY
+FLETCHLING,11
+    Nature = ADAMANT
+#-------------------
+[IVLADY,Tracy]
+Pokemon = SPEWPA,12
+    Moves = STUNSPORE,HARDEN,STRINGSHOT,PROTECT
+	Nature = CALM
+BUTTERFREE,12
+    Moves = SLEEPPOWDER,CONFUSION,STUNSPORE,TACKLE
+	Nature = TIMID
+#-------------------
+[VIPSYCHICM,Eevan]
+Pokemon = INKAY,12
+    Moves = PECK,REFLECT,FOULPLAY,SWAGGER
+	Nature = BRAVE
+Pokemon = CHINGLING,14
+    Moves = CONFUSION,ASTONISH,GROWL,WRAP
+	Nature = TIMID
+#-------------------
+[IVCAMPER,Jason]
+Pokemon = DEERLING,9
+#-------------------
+[VIBUGCATCHER,Isaiah]
+Pokemon = CASCOON,8
+    Moves = HARDEN,TACKLE,STRINGSHOT,POISONSTING
+Pokemon = METAPOD,8
+    Moves = TACKLE,HARDEN,STRINGSHOT
+Pokemon = KAKUNA,8
+    Moves = HARDEN,POISONSTING,STRINGSHOT
+#-------------------
+[VIYOUNGSTER,Abraham]
+Pokemon = BURMY,10
+Pokemon = SLAKOTH,11
+#-------------------
+[IVBREEDERF,Krysten]
+Pokemon = PIDGEY,11
+Pokemon = PANSAGE,11
+#-------------------
+[IVPICNICKER,Jamie]
+Pokemon = ZUBAT,10
+Pokemon = CHERUBI,10
+Pokemon = MANKEY,10
+#-------------------
+[IVLASS,Amy]
+Pokemon = RATTATA,12
+Pokemon = PARAS,12
+#-------------------
+[IVHIKER,Greg]
+Pokemon = DIGLETT,14
+    Moves = SCRATCH,SANDATTACK,ASTONISH,MUDSLAP
+	AbilityIndex = 0
+#-------------------
+[VIBATTLEGIRL,Cain & Ish]
+Pokemon = MANKEY,12
+Pokemon = TYROGUE,12
+#-------------------
+[VTECH,Lindon]
+Pokemon = KLINK,15
+    Item = METRONOME
+	Moves = VICEGRIP,CHARGE,THUNDERSHOCK,HIDDENPOWER
+	Nature = GENTLE
+#-------------------
+[VIJOGGER,Kirk]
+Pokemon = RATTATA,14
+Pokemon = SENTRET,16
+#-------------------
+[IVBREEDERF,Breanna]
+Pokemon = BUDEW,14
+Pokemon = HOOTHOOT,14
+Pokemon = ESPURR,14
+#-------------------
+[IVBLACKBELT,Derren]
+Pokemon = SHROOMISH,15
+    Moves = ABSORB,TACKLE,STUNSPORE,LEECHSEED
+	AbilityIndex = 1
+	Nature = BRAVE
+Pokemon = MACHOP,15
+    Moves = LEER,FOCUSENERGY,KARATECHOP,LOWSWEEP
+	AbilityIndex = 0
+	Nature = BRAVE
+Pokemon = CHIMCHAR,16
+    Item = ORANBERRY
+	Moves = LEER,EMBER,TAUNT,FURYSWIPES
+	AbilityIndex = 0
+	Nature = NAUGHTY
+#-------------------
+[TECTONICM,Grunt,6]
+Pokemon = WHISMUR,13
+Pokemon = SANDILE,13
+####################
+#Little Tournament
+####################
+[IVPICNICKER,Camie]
+Pokemon = ODDISH,10
+Pokemon = PANSAGE,10
+Pokemon = DEERLING,10
+#-------------------
+[VIPSYCHICM,Barry]
+Pokemon = SHUPPET,12
+#-------------------
+[VIBIRDKEEPER,Justin]
+Pokemon = HOOTHOOT,11
+Pokemon = PIDGEY,10
+#-------------------
+[IVCAMPER,Ulysses]
+Pokemon = BIDOOF,10
+Pokemon = PINECO,10
+Pokemon = ODDISH,10
+#-------------------
+[IVBUGCATCHER,Harris]
+Pokemon = SPINARAK,11
+Pokemon = SPEWPA,11
+#-------------------
+[VIBATTLEGIRL,Yolinda]
+Pokemon = MANKEY,12
+Pokemon = TYROGUE,13
+#-------------------
+[IVLASS,Cherry]
+Pokemon = DEERLING,13
+Pokemon = SLAKOTH,11
+#-------------------
+[VIBUGCATCHER,Chase]
+Pokemon = BURMY,10
+Pokemon = CATERPIE,11
+Pokemon = COMBEE,10
+Pokemon = SPINARAK,11
+#-------------------
+[VILASS,Sammy]
+Pokemon = ODDISH,12
+Pokemon = PARAS,12
+#-------------------
+[IVLADY,Emma]
+Pokemon = CHIKORITA,14
+Pokemon = LILLIPUP,13
+#-------------------
+[IVPSYCHICF,Cierra]
+Pokemon = Espurr,15
+#-------------------
+[IVNINJAKID,Shawn]
+Pokemon = ZUBAT,13
+Pokemon = SHUPPET,13
+Pokemon = POOCHYENA,13
+#-------------------
+[VISCHOOLKID,Benjamin]
+Pokemon = BEEDRILL,14
+Pokemon = SURSKIT,15
+Pokemon = VIVILLON,14
+#-------------------
+[IVBREEDERF,Hannah]
+Pokemon = PETILIL,15
+Pokemon = AZURILL,15
+Pokemon = MAGBY,14
+####################
+#Little Tournament End
+####################
+[BLANK,Sterling]
+Pokemon = GEODUDE,17
+    Moves = MAGNITUDE,ROCKTHROW,ROCKPOLISH,ROLLOUT
+	Nature = CAREFUL
+Pokemon = GULPIN,16
+    Moves = SLUDGE,POISONGAS,YAWN,POUND
+	Nature = RELAXED
+#-------------------
+[IVBUGCATCHER,Sam]
+Pokemon = COMBEE,12
+Pokemon = COMBEE,12
+Pokemon = BEEDRILL,13
+#-------------------
+[IVLASS,Terry]
+Pokemon = DUCKLETT,13
+Pokemon = BUDEW,13
+#-------------------
+[IVPICNICKER,Shelly]
+Pokemon = LEDYBA,13
+Pokemon = PANSAGE,13
+#-------------------
+[IVYOUNGSTER,Jermaine]
+Pokemon = KRICKETUNE,14
+#-------------------
+[POKEMONTRAINER_CASSANDRA,Cassandra,1]
+Pokemon = CLEFAIRY,22
+    Item = ORANBERRY
+	Moves = WAKEUPSLAP,DISARMINGVOICE,WISH,SING
+	Gender = female
+	AbilityIndex = 1
+	Nature = BOLD
+	IV = 31,31,31,31,31,31
+	Happiness = 190
+	Ball = LOVEBALL
+#-------------------
+[IVCAMPER,Clifford]
+Pokemon = PIDGEY,14
+Pokemon = BURMY,14
+#-------------------
+[VILADY,Jocelyn]
+Pokmeon = PANSAGE,14
+Pokemon = PANSEAR,14
+Pokemon = PANPOUR,14
+#-------------------
+[VIJOGGER,Quinn]
+Pokemon = PONYTA,16
+#-------------------
+[VIPOLICEMAN,Topher]
+Pokemon = LILLIPUP,16
+#-------------------
+[IVSCHOOLKID,Milton]
+Pokemon = PATRAT,15
+Pokemon = PIDGEY,14
+#-------------------
+[IVAROMALADY,Dell]
+Pokemon = FLABEBE,16
+#-------------------
+[VIYOUNGSTER,Harry]
+Pokemon = SEEDOT,15
+Pokemon = PONYTA,15
+#-------------------
+[IVSCHOOLKIDF,Janet]
+Pokemon = MAGNEMITE,19
+    Moves = MAGNETBOMB,THUNDERWAVE,SONICBOOM,THUNDERSHOCK
+	AbilityIndex = 0
+Pokemon = NOSEPASS,18
+    Moves = THUNDERWAVE,ROCKBLAST,BLOCK,TACKLE
+	AbilityIndex = 1
+#-------------------
+[VIYOUNGSTER,Lucas]
+Pokemon = TRAPINCH,18
+    Moves = SANDTOMB,FEINTATTACK,BITE,SANDATTACK
+	AbilityIndex = 1
+Pokemon = SHUCKLE,18
+    Moves = SANDTOMB,WRAP,ENCORE,BIDE
+	AbilityIndex = 2
+#-------------------
+[IVPSYCHICM,Nelson]
+Pokemon = ZUBAT,20
+    Moves = MEANLOOK,CONFUSERAY,WINGATTACK,BITE
+	AbilityIndex = 1
+Pokemon = WYNAUT,18
+    Moves = MIRRORCOAT,COUNTER,ENCORE
+	AbilityIndex = 0
+#-------------------
+[IVPSYCHICF,Valerie]
+Pokemon = GOTHITA,22
+    Moves = TICKLE,DOUBLESLAP,PSYBEAM,FAKETEARS
+	AbilityIndex = 2
+#-------------------
+[CELESTIALF,Grunt,1]
+Pokemon = VENONAT,19
+Pokemon = BALTOY,19
+#-------------------
+[PIT,Pit,1]
+Pokemon = MAGNEMITE,23
+    Item = QUICKCLAW
+	Moves = THUNDERSHOCK,MIRRORSHOT,REFLECT,THUNDERWAVE
+	AbilityIndex = 0
+	Nature = BOLD
+	IV = 20,20,20,20,20,20
+	Happiness = 255
+	Ball = ULTRABALL
+Pokemon = NOSEPASS,23
+    Item = CHESTOBERRY
+	Moves = ROCKBLAST,PAINSPLIT,REST,THUNDERWAVE
+	Gender = male
+	AbilityIndex = 1
+	Nature = SASSY
+	IV = 22,22,22,22,22,22
+	Happiness = 255
+	Ball = ULTRABALL
+Pokemon = DIGLETT,24
+    Moves = BULLDOZE,SUCKERPUNCH,ASTONISH,ROCKTOMB
+	AbilityIndex = 1
+	Gender = 0
+	Nature = ADAMANT
+	IV = 20,20,20,20,20,20
+	Happiness = 255
+	Ball = ULTRABALL
+Pokemon = WOBBUFFET,25
+    Item = ORANBERRY
+	Moves = COUNTER,MIRRORCOAT,SAFEGUARD,DESTINYBOND
+	Gender = male
+	AbilityIndex = 0
+	Nature = IMPISH
+	IV = 25,5,25,25,5,25
+	Happiness = 255
+	Ball = ULTRABALL
+#-------------------
+[IVCAMPER,Rowan]
+Pokemon = WOOBAT,20
+Pokemon = PATRAT,20
+#-------------------
+[VICOWGIRL,Merle]
+Pokemon = PONYTA,22
+#-------------------
+[VILASS,Evangeline]
+Pokemon = ODDISH,22
+	Moves = ABSORB,ACID,SLEEPPOWDER,SWEETSCENT
+Pokemon = HOPPIP,21
+	Moves = BULLETSEED,SLEEPPOWDER,FAIRYWIND,TAILWHIP
+#-------------------
+[IVCAMPER,Franky]
+Pokemon = LILLIPUP,20
+Pokemon = LEDYBA,21
+#-------------------
+[IVLASS,Anna]
+Pokemon = FLABEBE,19
+Pokemon = WOOBAT,20
+Pokemon = BELLSPROUT,20
+#-------------------
+[VILASS,Sam]
+Pokemon = PURRLOIN,21
+Pokemon = SKITTY,21
+#-------------------
+[IVPICNICKER,Lilli]
+Pokemon = NIDORANfE,23
+Pokemon = LILLIPUP,22
+	Moves = BABYDOLLEYES,TAKEDOWN,WORKUP,BITE
+	Gender = female
+#-------------------
+[IVTWINS,Lora & Dora]
+Pokemon = HOPPIP,21
+Pokemon = HOPPIP,21
+#-------------------
+[IVCAMPER,Berny]
+Pokemon = NIDORANmA,23
+Pokemon = LILLIPUP,22
+	Moves = LEER,TAKEDOWN,TACKLE,BITE
+	Gender = male
+#-------------------
+[VIENGINEER,Therman]
+Pokemon = TIMBURR,18
+#-------------------
+[VIENGINEER,Cassie]
+Pokemon = KLINK,15
+Pokemon = KLINK,16
+Pokemon = KLINK,17
+#-------------------
+[VIENGINEER,Avery]
+Pokemon = MAGNEMITE,18
+#-------------------
+[VIENGINEER,Dillan]
+Pokemon = TIMBURR,16
+Pokemon = MACHOP,17
+#-------------------
+[CELESTIALM,Grunt,1]
+Pokemon = SPINARAK,25
+Pokemon = VENONAT,25
+#-------------------
+[CELESTIALM,Grunt,2]
+Pokemon = SABLEYE,24
+Pokemon = BALTOY,25
+#-------------------
+[IVLASS,Perry]
+Pokemon = BUDEW,20
+Pokemon = MAREEP,20
+#-------------------
+[VICOWGIRL,Shannon]
+Pokemon = MAREEP,20
+Pokemon = MAREEP,20
+Pokemon = LILLIPUP,21
+#-------------------
+[IVSCHOOLKID,Jonny]
+Pokemon = PIDGEY,21
+Pokemon = PIDGEOTTO,22
+#-------------------
+[IVSCHOOLKIDF,Violet]
+Pokemon = MAREEP,21
+Pokemon = LEDYBA,22
+Pokemon = SHROOMISH,22
+#-------------------
+[IVPOKEFANF,Rena]
+Pokemon = SLAKOTH,21
+Pokemon = SEWADDLE,21
+#-------------------
+[VIJOGGER,Arron]
+Pokemon = TAILLOW,25
+Pokemon = PONYTA,24
+#-------------------
+[TECTONICM,Grunt,7]
+Pokemon = WHISMUR,25
+Pokemon = SPEAROW,25
+#-------------------
+[IVLASS,Fancy]
+Pokemon = BELLSPROUT,24
+Pokemon = JIGGLYPUFF,24
+Pokemon = BELLSPROUT,25
+#-------------------
+[IVAROMALADY,Carrie]
+Pokemon = FLOETTE,28
+#-------------------
+[IVPOKEFANM,George]
+Pokemon = PANPOUR,24
+Pokemon = PANSAGE,24
+Pokemon = MANKEY,25
+#-------------------
+[POKEMONTRAINER_CASSANDRA,Cassandra,2]
+Pokemon = EEVEE,29
+	Item = SILKSCARF
+	Moves = HELPINGHAND,QUICKATTACK,BITE,TAILWHIP
+	AbilityIndex = 1
+	Gender = female
+	Shiny = FALSE
+	Nature = JOLLY
+	IV = 25,25,25,25,25,25
+Pokemon = DUCKLETT,30
+	Item = SHARPBEAK
+	Moves = ROOST,AIRSLASH,BUBBLEBEAM,WATERPULSE
+	AbilityIndex = 2
+	Gender = male
+	Shiny = FALSE
+	Nature = RELAXED
+	IV = 24,24,24,24,24,24
+Pokemon = CLEFAIRY,30
+	Item = ORANBERRY
+	Moves = WAKEUPSLAP,DISARMINGVOICE,WISH,SING
+	AbilityIndex = 1
+	Gender = female
+	Shiny = FALSE
+	Nature = BOLD
+	IV = 31,31,31,31,31,31
+	Happiness = 250
+#-------------------
+[TECTONICM,Grunt,8]
+Pokemon = VOLTORB,27
+Pokemon = VOLTORB,27
+#-------------------
+[TECTONICM,Grunt,9]
+Pokemon = SANDILE,27
+Pokemon = WHISMUR,27
+#-------------------
+[TECTONICF,Grunt,3]
+Pokemon = FEAROW,26
+Pokemon = SANDILE,28
+#-------------------
+[TECTONICF,Grunt,4]
+Pokemon = VOLTORB,27
+Pokemon = AIPOM,27
+#-------------------
+[TECTONIC,Grunt,10]
+Pokemon = SPEAROW,26
+Pokemon = SPEAROW,26
+Pokemon = SANDILE,26
+#-------------------
+[TECTONICF,Grunt,5]
+Pokemon = FEAROW,27
+Pokemon = LOUDRED,27
+#-------------------
+[IVMUSICIAN,Wolfram]
+Pokemon = JIGGLYPUFF,25
+Pokemon = WHISMUR,25
+Pokemon = VOLTORB,24
+#-------------------
+[VPRESCHOOLERF,Norah]
+Pokemon = Herdier,27
+#-------------------
+[IVNINJAKID,Abel]
+Pokemon = KOFFING,26
+Pokemon = FOONGUS,27
+#-------------------
+[IVNINJAKID,Idwal]
+Pokemon = BURMY,26
+Pokemon = VENONAT,26
+Pokemon = BURMY,27
+#-------------------
+[VJUGGLER,Nataniel]
+Pokemon = VOLTORB,27
+Pokemon = MIMEJR,28
+#-------------------
+[IVNINJAKID,Chase]
+Pokemon = NINCADA,27
+Pokemon = TURTWIG,27
+#-------------------
+[VJUGGLER,David]
+Pokemon = MACHOP,29
+#-------------------
+[IVNINJAKID,Nico]
+Pokemon = NINCADA,27
+Pokemon = KOFFING,27
+#-------------------
+[VJUGGLER,Herman]
+Pokemon = DITTO,25
+	AbilityIndex = 0
+Pokemon = DITTO,30
+	AbilityIndex = 0
+#-------------------
+[IVNINJAKID,Neji]
+Pokemon = FOONGUS,27
+Pokemon = WORMADAM,28
+#-------------------
+[VJUGGLER,Maurice]
+Pokemon = BONSLY,28
+	Moves = ROCKTHROW,COPYCAT,MIMIC,FLAIL
+Pokemon = MASQUERAIN,28
+	Moves = BUBBLEBEAM,SCARYFACE,GUST,SWEETSCENT
+#-------------------
+[VJUGGLER,Kenneth]
+Pokemon = POLIWAG,26
+    Moves = HYPNOSIS,RAINDANCE,BUBBLE,WATERSPORT,
+Pokemon = POLIWAG,27
+    Moves = HYPNOSIS,RAINDANCE,DOUBLESLAP,WATERGUN,
+Pokemon = POLIWAG,28
+    Moves = HYPNOSIS,BODYSLAM,BUBBLEBEAM,MUDSHOT,
+#-------------------
+[ELLISE,Ellise]
+Pokemon = ZOROARK,32
+    Item = BRIGHTPOWDER
+    Moves = NIGHTSLASH,INCINERATE,SECRETPOWER,UTURN,
+    Nature = NAUGHTY
+    IV = 25,25,25,25,25,25
+    Happiness = 255
+    Ball = DUSKBALL
+    Gender = male
+    Shiny = FALSE
+    Happiness = 255
+Pokemon = SUDOWOODO,30
+    Item = QUICKCLAW
+    Moves = ROCKSLIDE,SEISMICTOSS,LOWKICK,FEINTATTACK,
+    AbilityIndex = 0
+    Nature = IMPISH
+    IV = 23,23,23,23,23,23
+    Happiness = 255
+    Ball = DUSKBALL
+    Gender = male
+    Shiny = FALSE
+    Happiness = 255
+Pokemon = KECLEON,31
+    Item = EXPERTBELT
+    Moves = SHADOWSNEAK,PSYBEAM,CHARGEBEAM,ICYWIND,
+    AbilityIndex = 2
+    Nature = QUIET
+    IV = 20,20,20,20,20,20
+    Happiness = 255
+    Ball = DUSKBALL
+    Gender = female
+    Shiny = FALSE
+    Happiness = 255
+Pokemon = DITTO,32
+    Item = FOCUSBAND
+    Moves = TRANSFORM,
+    AbilityIndex = 2
+    Nature = QUIRKY
+    IV = 24,24,24,24,24,24
+    Happiness = 255
+    Ball = DUSKBALL
+    Happiness = 255
+#-------------------
+[POKEMONTRAINER_CASSANDRA,Cassandra,3]
+Pokemon = EEVEE,32
+    Item = SILKSCARF
+    Moves = TAKEDOWN,QUICKATTACK,BITE,TAILWHIP,
+    AbilityIndex = 1
+    Nature = JOLLY
+    IV = 25,25,25,25,25,25
+    Gender = female
+    Shiny = FALSE
+Pokemon = AMPHAROS,30
+    Item = QUICKCLAW
+    Moves = TAKEDOWN,THUNDERWAVE,CONFUSERAY,ELECTROBALL,
+    AbilityIndex = 0
+    Nature = QUIET
+    IV = 20,20,20,20,20,20
+    Gender = male
+    Shiny = FALSE
+Pokemon = DUCKLETT,32
+    Item = SHARPBEAK
+    Moves = ROOST,AIRSLASH,BUBBLEBEAM,WATERPULSE,
+    AbilityIndex = 2
+    Nature = RELAXED
+    IV = 24,24,24,24,24,24
+    Gender = male
+    Shiny = FALSE
+Pokemon = CLEFAIRY,32
+    Item = SITRUSBERRY
+    Moves = MINIMIZE,METRONOME,WISH,STOREDPOWER,
+    AbilityIndex = 1
+    Nature = BOLD
+    IV = 31,31,31,31,31,31
+    Happiness = 250
+    Gender = female
+    Shiny = FALSE
+    Happiness = 250
+#-------------------
+[VILASS,Cayley]
+Pokemon = BUNNELBY,28
+    Moves = 
+Pokemon = JIGGLYPUFF,29
+    Moves = 
+#-------------------
+[VIFISHERMAN,Arnold]
+Pokemon = FINNEON,22
+    Moves = 
+Pokemon = FINNEON,24
+    Moves = 
+Pokemon = FINNEON,26
+    Moves = 
+Pokemon = FINNEON,28
+    Moves = 
+#-------------------
+[IVFISHERMAN,Dalton]
+Pokemon = LOTAD,28
+    Moves = 
+Pokemon = GOLDEEN,29
+    Moves = 
+Pokemon = LOMBRE,29
+    Moves = 
+#-------------------
+[IVCAMPER,Shawn]
+Pokemon = SHELLOS,29
+    Moves = 
+Pokemon = SLOWPOKE,30
+    Moves = 
+#-------------------
+[IVLASS,Zoe]
+Pokemon = SKITTY,30
+    Moves = 
+Pokemon = PURRLOIN,29
+    Moves = 
+Pokemon = FLABEBE,29
+    Moves = 
+#-------------------
+[IVAROMALADY,Camillia]
+Pokemon = BUDEW,28
+    Moves = 
+Pokemon = GOLDEEN,30
+    Moves = 
+Pokemon = ROSELIA,30
+    Moves = 
+#-------------------
+[VIPAINTER,Theran]
+Pokemon = MIMEJR,31
+    Moves = 
+Pokemon = KRICKETUNE,30
+    Moves = 
+#-------------------
+[VIBREEDERM,Matt]
+Pokemon = LILLIPUP,30
+    Moves = 
+Pokemon = PANPOUR,31
+    Moves = 
+#-------------------
+[VIJOGGER,Phillip]
+Pokemon = SWELLOW,33
+    Moves = 
+#-------------------
+[IVPOKEFANF,Abigail]
+Pokemon = HOOTHOOT,31
+    Moves = 
+Pokemon = LILLIPUP,31
+    Moves = 
+Pokemon = NIDORANmA,31
+    Moves = 
+#-------------------
+[IVTUBERM,Sunny]
+Pokemon = PIDGEY,31
+    Moves = 
+Pokemon = COMBEE,31
+    Moves = 
+#-------------------
+[IVTUBERF,Lilly]
+Pokemon = CHERUBI,31
+    Moves = 
+Pokemon = COMBEE,31
+    Moves = 
+#-------------------
+[IVCAMPER,Hanley]
+Pokemon = BELLSPROUT,24
+    Moves = 
+Pokemon = PIDGEY,24
+    Moves = 
+Pokemon = ZIGZAGOON,24
+    Moves = 
+#-------------------
+[VIBUGCATCHER,Jackson]
+Pokemon = SEWADDLE,25
+    Moves = 
+Pokemon = PINECO,25
+    Moves = 
+#-------------------
+[VICOWGIRL,Peri]
+Pokemon = DUCKLETT,25
+    Moves = 
+Pokemon = DUCKLETT,28
+    Moves = 
+Pokemon = SKITTY,30
+    Moves = 
+#-------------------
+[RANCHER,Bert]
+Pokemon = TYROGUE,30
+    Moves = 
+Pokemon = SLOWPOKE,29
+    Moves = 
+#-------------------
+[VIPOKEFANF,Maria]
+Pokemon = EXEGGCUTE,36
+    Moves = LEECHSEED,SLEEPPOWDER,CONFUSION,GIGADRAIN,
+Pokemon = TENTACOOL,36
+    Moves = POISONJAB,WATERPULSE,BUBBLEBEAM,BARRIER,
+#-------------------
+[IVTUBERM,Addison]
+Pokemon = WINGULL,31
+    Moves = 
+Pokemon = WINGULL,31
+    Moves = WINGATTACK,SUPERSONIC,WATERGUN,ROOST,
+Pokemon = KRABBY,31
+    Moves = GUILLOTINE,MUDSHOT,PROTECT,METALCLAW,
+#-------------------
+[VITWINS,Rizzie & Lizzie]
+Pokemon = KRABBY,30
+    Moves = 
+Pokemon = TENTACOOL,30
+    Moves = 
+Pokemon = KINGLER,32
+    Moves = 
+Pokemon = TENTACRUEL,32
+    Moves = 
+#-------------------
+[VPRESCHOOLERM,Parris]
+Pokemon = WINGULL,32
+    Moves = UTURN,PURSUIT,SUPERSONIC,WATERPULSE,
+Pokemon = SPINARAK,33
+    Moves = SUCKERPUNCH,NIGHTSHADE,POISONSTING,SHADOWSNEAK,
+#-------------------
+[VPRESCHOOLERF,Darcy]
+Pokemon = PELIPPER,35
+    Moves = ROOST,BRINE,KNOCKOFF,FLY,
+#-------------------
+[POKEMONTRAINER_Cirrus,Cirrus,4]
+Pokemon = GOLBAT,33
+    Moves = WINGATTACK,BITE,CONFUSERAY,POISONFANG,
+    AbilityIndex = 0
+    Nature = HASTY
+    IV = 18,18,18,18,18,18
+    Gender = male
+    Shiny = FALSE
+Pokemon = SHUPPET,34
+    Moves = SUCKERPUNCH,SHADOWSNEAK,WILLOWISP,NIGHTSHADE,
+    AbilityIndex = 2
+    Nature = JOLLY
+    IV = 19,19,19,19,19,19
+    Gender = male
+    Shiny = FALSE
+Pokemon = LUMINEON,33
+    Moves = WATERPULSE,GUST,ROUND,RAINDANCE,
+    AbilityIndex = 0
+    Nature = MODEST
+    IV = 16,16,16,16,16,16
+    Gender = female
+    Shiny = FALSE
+Pokemon = LARVESTA,35
+    Moves = FLAMECHARGE,LEECHLIFE,TAKEDOWN,STRUGGLEBUG,
+    AbilityIndex = 0
+    Nature = NAIVE
+    IV = 22,22,22,22,22,22
+    Gender = female
+    Shiny = FALSE
+#-------------------
+[POKEMONTRAINER_Cirrus,Cirrus,5]
+Pokemon = GOLBAT,33
+    Moves = WINGATTACK,BITE,CONFUSERAY,POISONFANG,
+    AbilityIndex = 0
+    Nature = HASTY
+    IV = 18,18,18,18,18,18
+    Gender = male
+    Shiny = FALSE
+Pokemon = SHUPPET,34
+    Moves = SUCKERPUNCH,SHADOWSNEAK,WILLOWISP,NIGHTSHADE,
+    AbilityIndex = 2
+    Nature = JOLLY
+    IV = 19,19,19,19,19,19
+    Gender = male
+    Shiny = FALSE
+Pokemon = LUMINEON,33
+    Moves = WATERPULSE,GUST,ROUND,RAINDANCE,
+    AbilityIndex = 0
+    Nature = MODEST
+    IV = 16,16,16,16,16,16
+    Gender = female
+    Shiny = FALSE
+Pokemon = METANG,34
+    Moves = BULLETPUNCH,ZENHEADBUTT,PURSUIT,ROCKTOMB,
+    AbilityIndex = 0
+    Nature = SASSY
+    IV = 22,22,22,22,22,22
+#-------------------
+[POKEMONTRAINER_Cirrus,Cirrus,6]
+Pokemon = GOLBAT,33
+    Moves = WINGATTACK,BITE,CONFUSERAY,POISONFANG,
+    AbilityIndex = 0
+    Nature = HASTY
+    IV = 18,18,18,18,18,18
+    Gender = male
+    Shiny = FALSE
+Pokemon = SHUPPET,34
+    Moves = SUCKERPUNCH,SHADOWSNEAK,WILLOWISP,NIGHTSHADE,
+    AbilityIndex = 2
+    Nature = JOLLY
+    IV = 19,19,19,19,19,19
+    Gender = male
+    Shiny = FALSE
+Pokemon = LUMINEON,33
+    Moves = WATERPULSE,GUST,ROUND,RAINDANCE,
+    AbilityIndex = 0
+    Nature = MODEST
+    IV = 16,16,16,16,16,16
+    Gender = female
+    Shiny = FALSE
+Pokemon = TOGETIC,35
+    Moves = METRONOME,ANCIENTPOWER,FAIRYWIND,MAGICALLEAF,
+    AbilityIndex = 1
+    Nature = CALM
+    IV = 22,22,22,22,22,22
+    Gender = female
+    Shiny = FALSE
+#-------------------
+[VIBUGCATCHER,Henry]
+Pokemon = SWADLOON,30
+    Moves = GRASSWHISTLE,RAZORLEAF,BUGBITE,PROTECT,
+Pokemon = WHIRLIPEDE,30
+    Moves = ROLLOUT,POISONTAIL,PURSUIT,IRONDEFENSE,
+#-------------------
+[IVCAMPER,Neville]
+Pokemon = RATTATA,31
+    Moves = SUPERFANG,CRUNCH,QUICKATTACK,TAILWHIP,
+Pokemon = RATICATE,30
+    Moves = SUCKERPUNCH,HYPERFANG,WORKUP,QUICKATTACK,
+#-------------------
+[IVPICNICKER,April]
+Pokemon = PANSEAR,30
+    Moves = 
+Pokemon = PANPOUR,30
+    Moves = 
+Pokemon = PANSAGE,30
+    Moves = 
+#-------------------
+[IVLASS,Bianca]
+Pokemon = WORMADAM,31
+    Moves = 
+Pokemon = MOTHIM,31
+    Moves = 
+#-------------------
+[VIBUGCATCHER,Jayden]
+Pokemon = PARAS,31
+    Moves = 
+Pokemon = PINECO,32
+    Moves = 
+#-------------------
+[IVPICNICKER,Kennedy]
+Pokemon = NOCTOWL,32
+    Moves = 
+#-------------------
+[VILASS,Evangeline,2]
+Pokemon = GLOOM,30
+    Item = WIKIBERRY
+    Moves = MEGADRAIN,ACID,SLEEPPOWDER,NATURALGIFT,
+Pokemon = SKIPLOOM,31
+    Moves = BULLETSEED,SLEEPPOWDER,FAIRYWIND,LEECHSEED,
+#-------------------
+[IVCAMPER,Clifford,2]
+Pokemon = PIDGEOTTO,30
+    Item = ORANBERRY
+    Moves = TWISTER,WHIRLWIND,QUICKATTACK,GUST,
+Pokemon = WORMADAM,30
+    Moves = RAZORLEAF,CONFUSION,HIDDENPOWER,BUGBITE,
+#-------------------
+[IVYOUNGSTER,Jermaine,2]
+Pokemon = KRICKETOT,20
+    Moves = 
+Pokemon = KRICKETOT,25
+    Moves = 
+Pokemon = KRICKETUNE,30
+    Moves = 
+#-------------------
+[BEEDRILL,Beedrill]
+Pokemon = BEEDRILL,25
+    Moves = TOXICSPIKES,FURYATTACK,TWINEEDLE,PURSUIT,
+Pokemon = BEEDRILL,27
+    Moves = RAGE,POISONSTING,TWINEEDLE,TOXICSPIKES,
+Pokemon = BEEDRILL,29
+    Moves = PINMISSILE,PURSUIT,POISONSTING,FOCUSENERGY,
+Pokemon = BEEDRILL,31
+    Moves = AGILITY,BUGBITE,PURSUIT,FURYATTACK,
+Pokemon = BEEDRILL,33
+    Item = BEEDRILLITE
+    Moves = POISONJAB,PINMISSILE,ASSURANCE,TWINEEDLE,
+    AbilityIndex = 2
+#-------------------
+[CELESTIALM,Grunt,3]
+Pokemon = SABLEYE,31
+    Moves = 
+Pokemon = NOCTOWL,32
+    Moves = 
+Pokemon = BALTOY,33
+    Moves = 
+#-------------------
+[CELESTIALF,Grunt,2]
+Pokemon = VENONAT,32
+    Moves = 
+Pokemon = VENOMOTH,33
+    Moves = 
+#-------------------
+[CELESTIALF,Grunt,3]
+Pokemon = HOOTHOOT,32
+    Moves = 
+Pokemon = NOCTOWL,33
+    Moves = 
+#-------------------
+[CELESTIALM,Grunt,4]
+Pokemon = ARIADOS,32
+    Moves = 
+Pokemon = BALTOY,33
+    Moves = 
+Pokemon = VENONAT,34
+    Moves = 
+#-------------------
+[CELESTIALM,Grunt,5]
+Pokemon = BALTOY,33
+    Moves = 
+Pokemon = SABLEYE,33
+    Moves = 
+#-------------------
+[CELESTIALM,Grunt,6]
+Pokemon = SPINARAK,33
+    Moves = 
+Pokemon = ARIADOS,33
+    Moves = 
+#-------------------
+[CELESTIALF,Grunt,4]
+Pokemon = VENOMOTH,34
+    Moves = 
+#-------------------
+[CELESTIALF,Grunt,5]
+Pokemon = ARIADOS,34
+    Moves = 
+#-------------------
+[BLACK,Black]
+Pokemon = CLAYDOL,38
+    Item = LIGHTCLAY
+    Moves = LIGHTSCREEN,REFLECT,PSYBEAM,ANCIENTPOWER,
+    Nature = BOLD
+    IV = 15,15,15,15,15,15
+Pokemon = SABLEYE,39
+    Item = BRIGHTPOWDER
+    Moves = NIGHTSHADE,RECOVER,CONFUSERAY,FAKEOUT,
+    AbilityIndex = 2
+    Nature = IMPISH
+    IV = 16,16,16,16,16,16
+    Gender = male
+    Shiny = FALSE
+Pokemon = QWILFISH,38
+    Item = HARDSTONE
+    Moves = TOXICSPIKES,MINIMIZE,ROLLOUT,BRINE,
+    AbilityIndex = 2
+    Nature = JOLLY
+    IV = 15,15,15,15,15,15
+    Gender = male
+    Shiny = FALSE
+Pokemon = WHIMSICOTT,38
+    Item = SITRUSBERRY
+    Moves = SUBSTITUTE,LEECHSEED,STUNSPORE,TAILWIND,
+    AbilityIndex = 0
+    Nature = CAREFUL
+    IV = 17,17,17,17,17,17
+    Gender = female
+    Shiny = FALSE
+Pokemon = WATCHOG,37
+    Item = QUICKCLAW
+    Moves = SUPERFANG,HYPNOSIS,CONFUSERAY,DIG,
+    AbilityIndex = 2
+    Nature = BRAVE
+    IV = 13,13,13,13,13,13
+    Gender = male
+    Shiny = FALSE
+Pokemon = VENOMOTH,39
+    Moves = MORNINGSUN,SLEEPPOWDER,SIGNALBEAM,DISABLE,
+    AbilityIndex = 1
+    Nature = TIMID
+    IV = 18,18,18,18,18,18
+    Gender = female
+    Shiny = FALSE
+#-------------------
+[VIENGINEER,Horace]
+Pokemon = KLINK,33
+    Moves = VOLTSWITCH,AUTOTOMIZE,CHARGEBEAM,BIND,
+Pokemon = VOLTORB,34
+    Moves = SELFDESTRUCT,ELECTROBALL,LIGHTSCREEN,VOLTSWITCH,
+#-------------------
+[VIENGINEER,Dan]
+Pokemon = LUMINEON,33
+    Moves = UTURN,GUST,ATTRACT,WATERPULSE,
+Pokemon = YANMA,33
+    Moves = ANCIENTPOWER,UTURN,PURSUIT,SUPERSONIC,
+Pokemon = AIPOM,33
+    Moves = DOUBLEHIT,UTURN,AGILITY,SANDATTACK,
+#-------------------
+[VIENGINEER,Noam]
+Pokemon = HELIOPTILE,35
+    Moves = VOLTSWITCH,BULLDOZE,PARABOLICCHARGE,QUICKATTACK,
+#-------------------
+[VLASS,Jordi]
+Pokemon = ELECTRODE,34
+    Moves = VOLTSWITCH,SCREECH,ROLLOUT,LIGHTSCREEN,
+Pokemon = FORRETRESS,33
+    Moves = AUTOTOMIZE,VOLTSWITCH,MIRRORSHOT,SPIKES,
+#-------------------
+[IVLASS,Pam]
+Pokemon = BUNNELBY,34
+    Moves = DIG,UTURN,FLAIL,ODORSLEUTH,
+Pokemon = MOTHIM,33
+    Moves = PSYBEAM,POISONPOWDER,GUST,UTURN,
+#-------------------
+[VILASS,Kiera]
+Pokemon = PONYTA,34
+    Moves = INFERNO,TAKEDOWN,HEATBREAK,FIRESPIN,
+Pokemon = MIGHTYENA,34
+    Moves = ASSURANCE,SWAGGER,ROAR,HEATBREAK,
+#-------------------
+[REVA,Reva]
+Pokemon = HELIOLISK,38
+    Item = AIRBALLOON
+    Moves = UTURN,VOLTSWITCH,HEATBREAK,QUICKATTACK,
+    AbilityIndex = 0
+    Nature = NAUGHTY
+    IV = 26,26,26,26,26,26
+    Happiness = 219
+    Ball = FASTBALL
+    Gender = female
+    Shiny = FALSE
+    Happiness = 219
+Pokemon = MIENFOO,37
+    Item = EVIOLITE
+    Moves = FAKEOUT,JUMPKICK,UTURN,HEATBREAK,
+    AbilityIndex = 1
+    Nature = JOLLY
+    IV = 27,27,27,27,27,27
+    Happiness = 219
+    Ball = FASTBALL
+    Gender = female
+    Shiny = FALSE
+    Happiness = 219
+Pokemon = EMOLGA,37
+    Item = SITRUSBERRY
+    Moves = UTURN,ACROBATICS,HEATBREAK,VOLTSWITCH,
+    AbilityIndex = 0
+    Nature = NAIVE
+    IV = 23,23,23,23,23,23
+    Happiness = 219
+    Ball = FASTBALL
+    Gender = female
+    Shiny = FALSE
+    Happiness = 219
+Pokemon = VOLBEAT,38
+    Item = BRIGHTPOWDER
+    Moves = MOONLIGHT,UTURN,HEATBREAK,ZENHEADBUTT,
+    AbilityIndex = 2
+    Nature = IMPISH
+    IV = 22,22,22,22,22,22
+    Happiness = 219
+    Ball = FASTBALL
+    Gender = male
+    Shiny = FALSE
+    Happiness = 219
+Pokemon = GALVANTULA,37
+    Item = EXPERTBELT
+    Moves = VOLTSWITCH,GIGADRAIN,PURSUIT,UTURN,
+    AbilityIndex = 2
+    Nature = RASH
+    IV = 29,29,29,29,29,29
+    Happiness = 219
+    Ball = FASTBALL
+    Gender = male
+    Shiny = FALSE
+    Happiness = 219
+#-------------------
+[VSCIENTISTF,Nancy]
+Pokemon = LIEPARD,32
+    Moves = ASSIST,ASSURANCE,FAKEOUT,THIEF,
+    AbilityIndex = 2
+    Gender = female
+    Shiny = FALSE
+Pokemon = COTTONEE,33
+    Moves = CHARM,GIGADRAIN,POISONPOWDER,DRAININGROWTH,
+    AbilityIndex = 0
+    Gender = female
+    Shiny = FALSE
+Pokemon = ILLUMISE,33
+    Moves = FLATTER,ENCORE,WISH,TACKLE,
+    AbilityIndex = 2
+#-------------------
+[VPOLICEMAN,Larry]
+Pokemon = LILLIPUP,33
+    Moves = 
+Pokemon = HERDIER,33
+    Moves = 
+#-------------------
+[VPOLICEMAN,Fault]
+Pokemon = PELIPPER,33
+    Moves = 
+Pokemon = MAGBY,32
+    Moves = 
+#-------------------
+[BANETTE,Banette]
+Pokemon = SHUPPET,35
+    Moves = SHADOWBALL,CURSE,SHADOWSNEAK,SPITE,
+    AbilityIndex = 2
+Pokemon = SHUPPET,35
+    Moves = WILLOWISP,HEX,FEINTATTACK,CURSE,
+    AbilityIndex = 2
+Pokemon = BANETTE,38
+    Item = BANETTITE
+    Moves = SUCKERPUNCH,WILLOWISP,SHADOWSNEAK,KNOCKOFF,
+    Gender = female
+    Shiny = FALSE
+#-------------------
+[IVCAMPER,Malik]
+Pokemon = NUZLEAF,34
+    Moves = FAKEOUT,FEINTATTACK,RAZORLEAF,NATUREPOWER,
+Pokemon = LINOONE,33
+    Moves = FURYSWIPES,ODORSLEUTH,SANDATTACK,SWITCHEROO,
+Pokemon = NIDORINO,34
+    Moves = HORNATTACK,FURYATTACK,POISONSTING,DOUBLEKICK,
+#-------------------
+[IVPICNICKER,Kimberly]
+Pokemon = LOMBRE,34
+    Moves = FAKEOUT,BUBBLEBEAM,ABSORB,NATUREPOWER,
+Pokemon = FURRET,33
+    Moves = SLAM,REST,DEFENSECURL,FORESIGHT,
+Pokemon = NIDORINA,34
+    Moves = BITE,FURYSWIPES,POISONSTING,DOUBLEKICK,
+#-------------------
+[IVBUGCATCHER,Saul]
+Pokemon = KRICKETOT,34
+    Moves = 
+Pokemon = LEDIAN,34
+    Moves = SILVERWIND,BATONPASS,COMETPUNCH,MACHPUNCH,
+#-------------------
+#-------------------
+[VWAITER,Brent]
+Pokemon = PANCHAM,34
+    Moves = BODYSLAM,CIRCLETHROW,WORKUP,COMETPUNCH,
+Pokemon = PANSEAR,34
+    Item = ORANBERRY
+    Moves = 
+Pokemon = PANGORO,35
+    Moves = 
+#-------------------
+[IVAROMALADY,Joyce]
+Pokemon = JUMPLUFF,34
+    Moves = 
+Pokemon = VILEPLUME,34
+    Item = ABSORBBULB
+    Moves = POISONPOWDER,DRAININGROWTH,SLEEPPOWDER,ACID,
+Pokemon = ROSELIA,35
+    Moves = 
+#-------------------
+[VWAITRESS,Noemy]
+Pokemon = BUNEARY,34
+    Moves = 
+Pokemon = PANSAGE,34
+    Item = ORANBERRY
+    Moves = 
+Pokemon = LOPUNNY,35
+    Moves = JUMPKICK,QUICKATTACK,RETURN,BOUNCE,
+    Happiness = 225
+    Happiness = 225
+#-------------------
+[TECTONICM,Grunt,11]
+Pokemon = WHISMUR,33
+    Moves = 
+Pokemon = LOUDRED,35
+    Moves = 
+Pokemon = VENIPEDE,33
+    Moves = 
+Pokemon = WHIRLIPEDE,35
+    Moves = 
+#-------------------
+[VLASS,Reann]
+Pokemon = SAWSBUCK,37
+    Moves = HORNLEECH,JUMPKICK,TAKEDOWN,SANDATTACK,
+#-------------------
+[IVYOUNGSTER,Nat]
+Pokemon = LINOONE,35
+    Moves = 
+Pokemon = GEODUDE,36
+    Moves = 
+#-------------------
+[VPRESCHOOLERM,Stanley]
+Pokemon = ZIGZAGOON,32
+    Moves = 
+Pokemon = BONSLY,33
+    Moves = 
+#-------------------
+[VIACETRAINERM,Ricardo]
+Pokemon = TENTACRUEL,38
+    Item = AIRBALLOON
+    Moves = TOXICSPIKES,BUBBLEBEAM,ACIDSPRAY,BARRIER,
+Pokemon = AMPHAROS,37
+    Item = QUICKCLAW
+    Moves = POWERGEM,THUNDERWAVE,THUNDERPUNCH,CONFUSERAY,
+Pokemon = PONYTA,37
+    Item = EVIOLITE
+    Moves = AGILITY,INFERNO,STOMP,FLAMEWHEEL,
+Pokemon = EXEGGUTOR,38
+    Item = SITRUSBERRY
+    Moves = PSYSHOCK,STOMP,SLEEPPOWDER,LEECHSEED,
+#-------------------
+[VIGUITARIST,Jeremiah]
+Pokemon = NINCADA,35
+    Moves = ROUND,DOUBLETEAM,METALCLAW,HARDEN,
+Pokemon = SKIDDO,35
+    Moves = 
+#-------------------
+[VIBUGCATCHER,Edwin]
+Pokemon = LEDYBA,36
+    Moves = 
+Pokemon = NINCADA,35
+    Moves = 
+Pokemon = SPINARAK,36
+    Moves = 
+#-------------------
+[VIJOGGER,Remmy]
+Pokemon = BLITZLE,36
+    Moves = DISCHARGE,STOMP,FLAMECHARGE,PURSUIT,
+Pokemon = DODUO,36
+    Moves = PLUCK,ACUPRESSURE,DOUBLEHIT,PURSUIT,
+#-------------------
+[IVBEAUTY,Dapree]
+Pokemon = PANCHAM,35
+    Moves = 
+Pokemon = NIDORANfE,37
+    Moves = 
+Pokemon = BUNEARY,36
+    Moves = 
+#-------------------
+[VAIDE,Dayna]
+Pokemon = SWELLOW,35
+    Moves = DOUBLETEAM,ENDEAVOR,PLUCK,FOCUSENERGY,
+Pokemon = SAWSBUCK,35
+    Moves = 
+#-------------------
+[IVAROMALADY,Magdalena]
+Pokemon = ROSELIA,35
+    Moves = INGRAIN,TOXICSPIKES,GIGADRAIN,GRASSWHISTLE,
+Pokemon = PELIPPER,35
+    Moves = 
+#-------------------
+[IVSAILOR,Jeffeory]
+Pokemon = PELIPPER,36
+    Moves = 
+Pokemon = TENTACOOL,35
+    Moves = 
+Pokemon = HITMONCHAN,35
+    Moves = COMETPUNCH,PURSUIT,QUICKGUARD,MACHPUNCH,
+#-------------------
+[VIBATTLEGIRL,Kiki]
+Pokemon = HITMONLEE,38
+    Moves = FORESIGHT,HIGHJUMPKICK,MEGAKICK,MEDITATE,
+#-------------------
+[VISCHOOLKID,Robert]
+Pokemon = PIDOVE,37
+    Moves = 
+Pokemon = RATICATE,37
+    Moves = 
+#-------------------
+[IVMUSICIAN,Chester]
+Pokemon = BRONZOR,36
+    Moves = 
+Pokemon = KRICKETUNE,39
+    Moves = SCREECH,SING,TAUNT,FELLSTINGER,
+#-------------------
+[IVDANCERS,Dylan and Ronda]
+Pokemon = SWANNA,36
+    Moves = 
+Pokemon = FLETCHINDER,36
+    Moves = 
+Pokemon = JIGGLYPUFF,37
+    Moves = 
+Pokemon = HOOTHOOT,37
+    Moves = 
+#-------------------
+[VBACKPACKERM,Terrence]
+Pokemon = WEEPINBELL,37
+    Moves = 
+Pokemon = KRABBY,38
+    Moves = 
+Pokemon = FURRET,37
+    Moves = 
+#-------------------
+[VIYOUNGSTER,Money]
+Pokemon = DUCKLETT,37
+    Moves = 
+Pokemon = LUMINEON,36
+    Moves = RAINDANCE,CAPTIVATE,WATERPULSE,GUST,
+Pokemon = GASTRODON,37
+    Moves = 
+#-------------------
+[VIPIKACHU,Boo]
+Pokemon = PICHU,38
+    Moves = SWEETKISS,TAILWHIP,CHARM,THUNDERSHOCK,
+Pokemon = PICHU,38
+    Moves = THUNDERWAVE,SWEETKISS,CHARM,THUNDERSHOCK,
+Pokemon = PICHU,38
+    Moves = NASTYPLOT,SWEETKISS,THUNDERSHOCK,TAILWHIP,
+#-------------------
+[TECTONICF,Grunt,6]
+Pokemon = KROKOROK,37
+    Moves = SCARYFACE,CRUNCH,SWAGGER,SANDTOMB,
+Pokemon = VOLTORB,37
+    Moves = 
+Pokemon = KOFFING,37
+    Moves = 
+Pokemon = AIPOM,38
+    Item = IRONBALL
+    Moves = FLING,AGILITY,FURYSWIPES,SANDATTACK,
+#-------------------
+[POKEMONTRAINER_Robin,Robin]
+Pokemon = PIDGEOT,39
+    Item = SILKSCARF
+    Moves = QUICKATTACK,AIRSLASH,ROUND,UTURN,
+    AbilityIndex = 0
+    Nature = MILD
+    IV = 29,29,29,29,29,29
+    Happiness = 150
+    Gender = male
+    Shiny = FALSE
+    Happiness = 150
+Pokemon = SWANNA,39
+    Moves = ROOST,AIRSLASH,BUBBLEBEAM,WATERPULSE,
+    AbilityIndex = 2
+    Nature = MODEST
+    IV = 23,23,23,23,23,23
+    Happiness = 155
+    Gender = female
+    Shiny = FALSE
+    Happiness = 155
+Pokemon = JUMPLUFF,38
+    Moves = ACROBATICS,DRAININGROWTH,SLEEPPOWDER,SYNTHESIS,
+    AbilityIndex = 2
+    Nature = IMPISH
+    IV = 22,22,22,22,22,22
+    Happiness = 145
+    Gender = female
+    Shiny = FALSE
+    Happiness = 145
+Pokemon = TALONFLAME,39
+    Item = CHARCOAL
+    Moves = FLAMECHARGE,ROOST,HEATBREAK,PLUCK,
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 30,30,30,30,30,30
+    Happiness = 135
+    Gender = male
+    Shiny = FALSE
+    Happiness = 135
+#-------------------
+[TECTONICF,Grunt,7]
+Pokemon = FEAROW,38
+    Moves = 
+Pokemon = WHIRLIPEDE,38
+    Moves = 
+Pokemon = LOUDRED,39
+    Moves = 
+#-------------------
+[TECTONICM,Grunt,12]
+Pokemon = KROKOROK,39
+    Moves = 
+Pokemon = AIPOM,39
+    Moves = 
+Pokemon = VOLTORB,37
+    Moves = 
+#-------------------
+[TECTONICM,Grunt,13]
+Pokemon = KOFFING,40
+    Moves = 
+Pokemon = ELECTRODE,39
+    Moves = 
+#-------------------
+[TECTONICM,Grunt,14]
+Pokemon = LOUDRED,38
+    Moves = 
+Pokemon = SKORUPI,38
+    Moves = 
+Pokemon = FEAROW,38
+    Moves = 
+#-------------------
+[TECTONICF,Grunt,8]
+Pokemon = LOUDRED,40
+    Moves = 
+Pokemon = KOFFING,40
+    Moves = 
+Pokemon = AIPOM,39
+    Moves = 
+#-------------------
+[TECTONICM,Grunt,15]
+Pokemon = VOLTORB,40
+    Moves = 
+Pokemon = LOUDRED,39
+    Moves = 
+Pokemon = KROKOROK,38
+    Moves = 
+#-------------------
+[TECTONICM,Grunt,16]
+Pokemon = AMBIPOM,40
+    Moves = 
+Pokemon = SKORUPI,40
+    Moves = 
+#-------------------
+[TECTONICM,Grunt,17]
+Pokemon = WHIRLIPEDE,40
+    Moves = 
+Pokemon = ELECTRODE,40
+    Moves = 
+#-------------------
+[TECTONICF,Grunt,9]
+Pokemon = SKORUPI,39
+    Moves = 
+Pokemon = VENIPEDE,40
+    Moves = 
+Pokemon = LOUDRED,39
+    Moves = 
+#-------------------
+[TECTONICF,Grunt,10]
+Pokemon = AIPOM,40
+    Moves = 
+Pokemon = WHISMUR,40
+    Moves = 
+Pokemon = KROKOROK,39
+    Moves = 
+#-------------------
+[TECTONICM,Grunt,18]
+Pokemon = FEAROW,40
+    Moves = 
+Pokemon = LOUDRED,40
+    Moves = 
+#-------------------
+[TECTONICM,Grunt,19]
+Pokemon = VOLTORB,40
+    Moves = 
+Pokemon = KROOKODILE,40
+    Moves = 
+#-------------------
+[VSCIENTISTM,Fermin]
+Pokemon = ELECTRODE,42
+    Moves = MAGNETRISE,DISCHARGE,SONICBOOM,SELFDESTRUCT,
+Pokemon = KROOKODILE,42
+    Item = SOFTSAND
+    Moves = CRUNCH,DIG,ROCKTOMB,ASSURANCE,
+#-------------------
+[VIRICHBOY,Erych]
+Pokemon = ZEBSTRIKA,40
+    Item = MAGNET
+    Moves = DISCHARGE,STOMP,FLAMECHARGE,THUNDERWAVE,
+#-------------------
+[VIILADY,Annamaria]
+Pokemon = GIRAFARIG,40
+    Item = TWISTEDSPOON
+    Moves = ZENHEADBUTT,CRUNCH,STOMP,AGILITY,
+#-------------------
+[IVBIRDCATCHER,Claud]
+Pokemon = DODRIO,40
+    Item = SHARPBEAK
+    Moves = PLUCK,FURYATTACK,PURSUIT,QUICKATTACK,
+#-------------------
+[VILADY,Meggan]
+Pokemon = ROSERADE,40
+    Item = MIRACLESEED
+    Moves = GIGADRAIN,GRASSWHISTLE,STUNSPORE,SWIFT,
+#-------------------
+[IVRICHBOY,Sidney]
+Pokemon = PYROAR,40
+    Item = CHARCOAL
+    Moves = FLAMETHROWER,HEADBUTT,FLAMECHARGE,HYPERBEAM,
+#-------------------
+[VIWAITRESS,Abella]
+Pokemon = ROSELIA,39
+    Moves = 
+Pokemon = JIGGLYPUFF,40
+    Moves = 
+#-------------------
+[VIRICHBOY,Erych,2]
+Pokemon = ZEBSTRIKA,40
+    Item = MAGNET
+    Moves = DISCHARGE,STOMP,FLAMECHARGE,THUNDERWAVE,
+Pokemon = AMPHAROS,40
+    Moves = DISCHARGE,POWERGEM,CONFUSERAY,TAKEDOWN,
+Pokemon = PACHIRISU,40
+    Moves = SUPERFANG,NUZZLE,SWIFT,ROLLOUT,
+#-------------------
+[VBACKPACKERF,Tatanya]
+Pokemon = DIGLETT,40
+    Moves = DIG,ASTONISH,SANDATTACK,SLASH,
+Pokemon = DIGLETT,40
+    Moves = BULLDOZE,GROWL,ROCKSMASH,SANDATTACK,
+Pokemon = DUGTRIO,40
+    Moves = EARTHQUAKE,SUCKERPUNCH,SANDTOMB,ROCKTOMB,
+#-------------------
+[VIJOGGER,Fushia]
+Pokemon = ZEBSTRIKA,40
+    Moves = 
+Pokemon = RAPIDASH,41
+    Moves = 
+#-------------------
+[VIJOGGER,Eddie]
+Pokemon = SWELLOW,40
+    Moves = 
+Pokemon = LIEPARD,41
+    Moves = 
+#-------------------
+[VDANCER,Raymond]
+Pokemon = NINJASK,40
+    Moves = AGILITY,FURYCUTTER,SANDATTACK,FURYSWIPES,
+Pokemon = NINJASK,41
+    Moves = SCREECH,DOUBLETEAM,GUST,BATONPASS,
+Pokemon = NINJASK,42
+    Moves = SWORDSDANCE,SLASH,BUGBITE,BATONPASS,
+#-------------------
+[VIJOGGER,Israel]
+Pokemon = JUMPLUFF,41
+    Moves = 
+Pokemon = JOLTEON,41
+    Moves = THUNDERWAVE,PINMISSILE,DOUBLEKICK,QUICKATTACK,
+#-------------------
+[VIJOGGER,Cliffton]
+Pokemon = RAPIDASH,40
+    Moves = 
+Pokemon = SWELLOW,41
+    Moves = 
+#-------------------
+[POKEMONTRAINER_Robin,Robin,2]
+Pokemon = PIDGEOT,40
+    Item = SILKSCARF
+    Moves = QUICKATTACK,AIRSLASH,ROUND,UTURN,
+    AbilityIndex = 0
+    Nature = MILD
+    IV = 29,29,29,29,29,29
+    Happiness = 150
+    Gender = male
+    Shiny = FALSE
+    Happiness = 150
+Pokemon = SWANNA,39
+    Moves = ROOST,AIRSLASH,BUBBLEBEAM,WATERPULSE,
+    AbilityIndex = 2
+    Nature = MODEST
+    IV = 23,23,23,23,23,23
+    Happiness = 155
+    Gender = female
+    Shiny = FALSE
+    Happiness = 155
+Pokemon = JUMPLUFF,39
+    Moves = ACROBATICS,DRAININGROWTH,SLEEPPOWDER,BULLETSEED,
+    AbilityIndex = 2
+    Nature = IMPISH
+    IV = 22,22,22,22,22,22
+    Happiness = 145
+    Gender = female
+    Shiny = FALSE
+    Happiness = 145
+Pokemon = TALONFLAME,40
+    Item = CHARCOAL
+    Moves = FLAMECHARGE,ROOST,HEATBREAK,PLUCK,
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 30,30,30,30,30,30
+    Happiness = 135
+    Gender = male
+    Shiny = FALSE
+    Happiness = 135
+#-------------------
+[IVBIRDCATCHER,Claud,2]
+Pokemon = DODRIO,40
+    Item = SHARPBEAK
+    Moves = PLUCK,FURYATTACK,PURSUIT,QUICKATTACK,
+Pokemon = NOCTOWL,40
+    Moves = AIRSLASH,CONFUSION,TAKEDOWN,REFLECT,
+Pokemon = DRIFBLIM,40
+    Moves = SHADOWBALL,MINIMIZE,SWALLOW,STOCKPILE,
+#-------------------
+[VIILADY,Annamaria,2]
+Pokemon = GIRAFARIG,40
+    Item = TWISTEDSPOON
+    Moves = ZENHEADBUTT,CRUNCH,STOMP,AGILITY,
+Pokemon = MEOWSTIC,40
+    Moves = PSYCHIC,EXTRASENSORY,SHADOWBALL,CHARGEBEAM,
+    Gender = female
+    Shiny = FALSE
+Pokemon = EXEGGUTOR,40
+    Moves = WOODHAMMER,EGGBOMB,PSYSHOCK,STOMP,
+#-------------------
+[SILVIA,Silvia]
+Pokemon = ACCELGOR,44
+    Item = SILVERPOWDER
+    Moves = BUGBUZZ,GIGADRAIN,SPIKES,MEFIRST,
+    AbilityIndex = 1
+    Nature = TIMID
+    IV = 26,26,26,26,26,26
+    Happiness = 255
+    Ball = QUICKBALL
+    Gender = male
+    Shiny = FALSE
+    Happiness = 255
+Pokemon = TALONFLAME,42
+    Item = SHARPBEAK
+    Moves = BRAVEBIRD,FLAREBLITZ,ROOST,UTURN,
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 22,22,22,22,22,22
+    Happiness = 255
+    Ball = QUICKBALL
+    Gender = female
+    Shiny = FALSE
+    Happiness = 255
+Pokemon = WHIMSICOTT,43
+    Item = SITRUSBERRY
+    Moves = STUNSPORE,GIGADRAIN,LEECHSEED,SLASHINGGALE,
+    AbilityIndex = 0
+    Nature = NAIVE
+    IV = 23,23,23,23,23,23
+    Happiness = 255
+    Ball = QUICKBALL
+    Gender = female
+    Shiny = FALSE
+    Happiness = 255
+Pokemon = NINJASK,44
+    Item = BRIGHTPOWDER
+    Moves = SWORDSDANCE,BATONPASS,NIGHTSLASH,BUGBITE,
+    AbilityIndex = 0
+    Nature = IMPISH
+    IV = 29,29,29,29,29,29
+    Happiness = 255
+    Ball = QUICKBALL
+    Gender = male
+    Shiny = FALSE
+    Happiness = 255
+Pokemon = JOLTEON,43
+    Item = EXPERTBELT
+    Moves = DISCHARGE,CHARGEBEAM,DOUBLEKICK,HIDDENPOWERICE,
+    AbilityIndex = 1
+    Nature = MILD
+    IV = 30,30,30,30,30,30
+    Happiness = 255
+    Ball = QUICKBALL
+    Gender = male
+    Shiny = FALSE
+    Happiness = 255
+#-------------------
+[POKEMONTRAINER_Cirrus,Cirrus,7]
+Pokemon = GOLBAT,40
+    Moves = ACROBATICS,BITE,CONFUSERAY,POISONFANG,
+    AbilityIndex = 2
+    Nature = HASTY
+    IV = 27,27,27,27,27,27
+    Gender = male
+    Shiny = FALSE
+Pokemon = BANETTE,39
+    Item = SPELLTAG
+    Moves = SUCKERPUNCH,SHADOWSNEAK,WILLOWISP,NIGHTSHADE,
+    AbilityIndex = 2
+    Nature = JOLLY
+    IV = 19,19,19,19,19,19
+    Gender = male
+    Shiny = FALSE
+Pokemon = TENTACRUEL,39
+    Item = POISONBARB
+    Moves = WATERPULSE,POISONJAB,ACIDSPRAY,BARRIER,
+    AbilityIndex = 0
+    Nature = MILD
+    IV = 24,24,24,24,24,24
+    Gender = female
+    Shiny = FALSE
+Pokemon = LARVESTA,41
+    Item = CHARCOAL
+    Moves = BUGBITE,FLAMECHARGE,TAKEDOWN,UTURN,
+    AbilityIndex = 0
+    Nature = NAIVE
+    IV = 22,22,22,22,22,22
+    Gender = female
+    Shiny = FALSE
+#-------------------
+[POKEMONTRAINER_Cirrus,Cirrus,8]
+Pokemon = GOLBAT,40
+    Moves = ACROBATICS,BITE,CONFUSERAY,POISONFANG,
+    AbilityIndex = 2
+    Nature = HASTY
+    IV = 27,27,27,27,27,27
+    Gender = male
+    Shiny = FALSE
+Pokemon = BANETTE,39
+    Item = SPELLTAG
+    Moves = SUCKERPUNCH,SHADOWSNEAK,WILLOWISP,NIGHTSHADE,
+    AbilityIndex = 2
+    Nature = JOLLY
+    IV = 19,19,19,19,19,19
+    Gender = male
+    Shiny = FALSE
+Pokemon = TENTACRUEL,39
+    Item = POISONBARB
+    Moves = WATERPULSE,POISONJAB,ACIDSPRAY,BARRIER,
+    AbilityIndex = 0
+    Nature = MILD
+    IV = 24,24,24,24,24,24
+    Gender = female
+    Shiny = FALSE
+Pokemon = METANG,41
+    Moves = ZENHEADBUTT,BULLETPUNCH,ROCKTOMB,AGILITY,
+    AbilityIndex = 1
+    Nature = SASSY
+    IV = 22,22,22,22,22,22
+#-------------------
+[POKEMONTRAINER_Cirrus,Cirrus,9]
+Pokemon = GOLBAT,40
+    Moves = ACROBATICS,BITE,CONFUSERAY,POISONFANG,
+    AbilityIndex = 2
+    Nature = HASTY
+    IV = 27,27,27,27,27,27
+    Gender = male
+    Shiny = FALSE
+Pokemon = BANETTE,39
+    Item = SPELLTAG
+    Moves = SUCKERPUNCH,SHADOWSNEAK,WILLOWISP,NIGHTSHADE,
+    AbilityIndex = 2
+    Nature = JOLLY
+    IV = 19,19,19,19,19,19
+    Gender = male
+    Shiny = FALSE
+Pokemon = TENTACRUEL,39
+    Item = POISONBARB
+    Moves = WATERPULSE,POISONJAB,ACIDSPRAY,BARRIER,
+    AbilityIndex = 0
+    Nature = MILD
+    IV = 24,24,24,24,24,24
+    Gender = female
+    Shiny = FALSE
+Pokemon = TOGETIC,41
+    Moves = SHOCKWAVE,ANCIENTPOWER,FAIRYWIND,WISH,
+    AbilityIndex = 1
+    Nature = CALM
+    IV = 22,22,22,22,22,22
+    Gender = female
+    Shiny = FALSE
+#-------------------
+[PIT,Pit,2]
+Pokemon = MAGNETON,39
+    Item = MAGNET
+    Moves = SHOCKWAVE,FLASHCANNON,HIDDENPOWERICE,THUNDERWAVE,
+    AbilityIndex = 0
+    Nature = BOLD
+    IV = 20,20,20,20,20,20
+    Happiness = 255
+    Ball = ULTRABALL
+    Happiness = 255
+Pokemon = PROBOPASS,39
+    Item = CHESTOBERRY
+    Moves = DISCHARGE,PAINSPLIT,REST,POWERGEM,
+    AbilityIndex = 1
+    Nature = SASSY
+    IV = 22,22,22,22,22,22
+    Happiness = 255
+    Ball = ULTRABALL
+    Gender = female
+    Shiny = FALSE
+    Happiness = 255
+Pokemon = DUGTRIO,40
+    Moves = DIG,SUCKERPUNCH,AERIALACE,ROCKTOMB,
+    AbilityIndex = 1
+    Nature = ADAMANT
+    IV = 20,20,20,20,20,20
+    Happiness = 255
+    Ball = ULTRABALL
+    Gender = male
+    Shiny = FALSE
+    Happiness = 255
+Pokemon = TANGROWTH,38
+    Moves = DRAININGROWTH,INFESTATION,STUNSPORE,KNOCKOFF,
+    AbilityIndex = 2
+    Nature = IMPISH
+    IV = 23,23,23,23,23,23
+    Happiness = 220
+    Ball = ULTRABALL
+    Gender = female
+    Shiny = FALSE
+    Happiness = 220
+Pokemon = WOBBUFFET,40
+    Item = SITRUSBERRY
+    Moves = COUNTER,MIRRORCOAT,SAFEGUARD,DESTINYBOND,
+    AbilityIndex = 0
+    Nature = IMPISH
+    IV = 25,25,25,25,25,25
+    Happiness = 255
+    Ball = ULTRABALL
+    Gender = male
+    Shiny = FALSE
+    Happiness = 255
+#-------------------
+[AUDINO,Audino]
+Pokemon = AUDINO,40
+    Item = AUDINITE
+    Moves = HEALPULSE,ENTRAINMENT,PLAYNICE,AFTERYOU,
+    AbilityIndex = 1
+    Gender = female
+    Shiny = FALSE
+#-------------------
+[POKEMONTRAINER_CASSANDRA,Cassandra,4]
+Pokemon = UMBREON,44
+    Item = SILKSCARF
+    Moves = MOONLIGHT,QUICKATTACK,BITE,TAILWHIP,
+    AbilityIndex = 1
+    Nature = JOLLY
+    IV = 25,25,25,25,25,25
+    Gender = female
+    Shiny = FALSE
+Pokemon = CLEFAIRY,45
+    Item = EVIOLITE
+    Moves = COSMICPOWER,STOREDPOWER,MOONLIGHT,INCINERATE,
+    AbilityIndex = 1
+    Nature = BOLD
+    IV = 31,31,31,31,31,31
+    Happiness = 255
+    Gender = female
+    Shiny = FALSE
+    Happiness = 255
+Pokemon = SWANNA,44
+    Item = MYSTICWATER
+    Moves = ROOST,AIRSLASH,TAILWIND,WATERPULSE,
+    AbilityIndex = 2
+    Nature = RELAXED
+    IV = 24,24,24,24,24,24
+    Gender = male
+    Shiny = FALSE
+Pokemon = MUSHARNA,44
+    Item = TWISTEDSPOON
+    Moves = PSYCHIC,CALMMIND,CHARGEBEAM,MOONLIGHT,
+    AbilityIndex = 2
+    Nature = MODEST
+    IV = 27,27,27,27,27,27
+    Gender = female
+    Shiny = FALSE
+Pokemon = AMPHAROS,43
+    Item = QUICKCLAW
+    Moves = POWERGEM,DISCHARGE,CONFUSERAY,CHARGEBEAM,
+    AbilityIndex = 0
+    Nature = QUIET
+    IV = 20,20,20,20,20,20
+    Gender = male
+    Shiny = FALSE
+#-------------------
+[VBACKPACKERM,Palm]
+Pokemon = NIDORINO,42
+    Moves = 
+Pokemon = GOLBAT,42
+    Moves = 
+Pokemon = VIGOROTH,42
+    Moves = 
+#-------------------
+[VIHIKER,Patrick]
+Pokemon = NOSEPASS,43
+    Moves = 
+Pokemon = GRAVELER,42
+    Moves = 
+Pokemon = HARIYAMA,41
+    Moves = 
+#-------------------
+[POKEMONTRAINER_CASSANDRA,Cassandra,5]
+Pokemon = SWANNA,45
+    Item = MYSTICWATER
+    Moves = ROOST,AIRSLASH,TAILWIND,WATERPULSE,
+    AbilityIndex = 2
+    Nature = RELAXED
+    IV = 24,24,24,24,24,24
+    Gender = male
+    Shiny = FALSE
+Pokemon = MUSHARNA,46
+    Item = TWISTEDSPOON
+    Moves = PSYCHIC,CALMMIND,CHARGEBEAM,MOONLIGHT,
+    AbilityIndex = 2
+    Nature = MODEST
+    IV = 27,27,27,27,27,27
+    Gender = female
+    Shiny = FALSE
+Pokemon = UMBREON,45
+    Item = SILKSCARF
+    Moves = MOONLIGHT,QUICKATTACK,BITE,TAILWHIP,
+    AbilityIndex = 1
+    Nature = JOLLY
+    IV = 25,25,25,25,25,25
+    Gender = female
+    Shiny = FALSE
+Pokemon = CLEFAIRY,46
+    Item = EVIOLITE
+    Moves = COSMICPOWER,MOONBLAST,MOONLIGHT,INCINERATE,
+    AbilityIndex = 1
+    Nature = BOLD
+    IV = 31,31,31,31,31,31
+    Happiness = 255
+    Gender = female
+    Shiny = FALSE
+    Happiness = 255
+Pokemon = AMPHAROS,45
+    Item = QUICKCLAW
+    Moves = POWERGEM,DISCHARGE,CONFUSERAY,CHARGEBEAM,
+    AbilityIndex = 0
+    Nature = QUIET
+    IV = 20,20,20,20,20,20
+    Gender = male
+    Shiny = FALSE
+#-------------------
+[VIPAINTER,Jose]
+Pokemon = SWIRLIX,43
+    Moves = 
+Pokemon = BUTTERFREE,42
+    Moves = 
+#-------------------
+[VIHIKER,Gregory]
+Pokemon = DUGTRIO,42
+    Moves = 
+Pokemon = GRAVELER,42
+    Moves = 
+#-------------------
+[IVAROMALADY,Beverly]
+Pokemon = VILEPLUME,42
+    Item = MIRACLESEED
+    Moves = AROMATHERAPY,SLEEPPOWDER,MOONLIGHT,GIGADRAIN,
+Pokemon = SPRITZEE,43
+    Moves = ECHOEDVOICE,MOONBLAST,ATTRACT,CALMMIND,
+#-------------------
+[VBACKPACKERM,Elias]
+Pokemon = GOGOAT,45
+    Moves = 
+#-------------------
+[IVBREEDERM,Urban]
+Pokemon = BUNEARY,43
+    Moves = 
+Pokemon = VULPIX,43
+    Moves = 
+Pokemon = FLAAFFY,43
+    Moves = 
+#-------------------
+[IVBIRDCATCHER,Neil]
+Pokemon = TRANQUILL,43
+    Moves = FEATHERDANCE,AIRSLASH,ROOST,DETECT,
+Pokemon = NOCTOWL,43
+    Moves = ZENHEADBUTT,AIRSLASH,REFLECT,HYPNOSIS,
+#-------------------
+[IVHIKER,Ruben]
+Pokemon = GRAVELER,43
+    Moves = 
+Pokemon = SUDOWOODO,43
+    Moves = 
+#-------------------
+[VIBIRDKEEPER,Signe]
+Pokemon = FEAROW,43
+    Moves = 
+Pokemon = DRIFBLIM,43
+    Moves = SHADOWBALL,STOCKPILE,OMINOUSWIND,MINIMIZE,
+#-------------------
+[VBACKPACKERM,Buddy]
+Pokemon = SLOWBRO,43
+    Moves = DISABLE,HEADBUTT,ZENHEADBUTT,SLACKOFF,
+Pokemon = WIGGLYTUFF,42
+    Moves = WAKEUPSLAP,BODYSLAM,GYROBALL,REST,
+#-------------------
+[VBACKPACKERF,Rachel]
+Pokemon = NUZLEAF,44
+    Moves = FAKEOUT,SWAGGER,NATUREPOWER,RAZORLEAF,
+Pokemon = LEDIAN,44
+    Item = BLACKBELT
+    Moves = AGILITY,SILVERWIND,MACHPUNCH,COMETPUNCH,
+#-------------------
+[TECTONICF,Grunt,11]
+Pokemon = KROKOROK,43
+    Moves = 
+Pokemon = LOUDRED,43
+    Moves = 
+Pokemon = SKORUPI,44
+    Moves = 
+#-------------------
+[TECTONICF,Grunt,12]
+Pokemon = FEAROW,44
+    Moves = 
+Pokemon = ELECTRODE,44
+    Moves = 
+#-------------------
+[TECTONICF,Grunt,13]
+Pokemon = ELECTRODE,44
+    Moves = 
+Pokemon = AMBIPOM,44
+    Moves = 
+Pokemon = KROKOROK,44
+    Moves = 
+#-------------------
+[TECTONICF,Grunt,14]
+Pokemon = DRAPION,46
+    Item = POISONBARB
+    Moves = NIGHTSLASH,POISONFANG,ACUPRESSURE,BUGBITE,
+    AbilityIndex = 1
+#-------------------
+[TECTONICM,Grunt,20]
+Pokemon = LOUDRED,44
+    Moves = 
+Pokemon = WHIRLIPEDE,44
+    Moves = 
+#-------------------
+[TECTONICM,Grunt,21]
+Pokemon = FEAROW,45
+    Moves = 
+Pokemon = KROOKODILE,45
+    Moves = 
+#-------------------
+[TECTONICF,Grunt,15]
+Pokemon = EXPLOUD,45
+    Moves = 
+Pokemon = AMBIPOM,45
+    Moves = 
+#-------------------
+[TECTONICF,Grunt,16]
+Pokemon = GEODUDE,45
+    Moves = 
+Pokemon = VENIPEDE,44
+    Moves = 
+Pokemon = SKORUPI,45
+    Moves = 
+#-------------------
+[TECTONICF,Grunt,17]
+Pokemon = SKORUPI,46
+    Moves = 
+Pokemon = AIPOM,46
+    Moves = 
+#-------------------
+[TECTONICF,Grunt,18]
+Pokemon = GOLBAT,45
+    Moves = 
+Pokemon = LOUDRED,45
+    Moves = 
+#-------------------
+[TECTONICM,Grunt,22]
+Pokemon = SCOLIPEDE,46
+    Moves = 
+#-------------------
+[TECTONICF,Grunt,19]
+Pokemon = KOFFING,45
+    Moves = 
+Pokemon = FEAROW,44
+    Moves = 
+Pokemon = VOLTORB,45
+    Moves = 
+#-------------------
+[TCAPTAINF,Captain]
+Pokemon = KROOKODILE,48
+    Moves = EARTHQUAKE,FOULPLAY,CRUNCH,SMACKDOWN,
+    AbilityIndex = 1
+Pokemon = SCOLIPEDE,48
+    Item = SILVERPOWDER
+    Moves = STEAMROLLER,PROTECT,TOXIC,BATONPASS,
+    AbilityIndex = 2
+Pokemon = DRAGALGE,47
+    Moves = TWISTER,HYDROPUMP,SLUDGEBOMB,SHOCKWAVE,
+    AbilityIndex = 2
+Pokemon = EXPLOUD,49
+    Item = SILKSCARF
+    Moves = HYPERVOICE,CRUNCH,REST,SLEEPTALK,
+    AbilityIndex = 2
+#-------------------
+[VCLERKF,Creme]
+Pokemon = UNFEZANT,44
+    Moves = 
+Pokemon = RIBOMBEE,43
+    Moves = 
+#-------------------
+[VCLERKM,Kaiser]
+Pokemon = TYPHLOSION,46
+    Item = CHARCOAL
+    Moves = LAVAPLUME,QUICKATTACK,SMOKESCREEN,FLING,
+#-------------------
+[VPRESCHOOLERF,Finn]
+Pokemon = JIGGLYPUFF,43
+    Moves = SING,HYPERVOICE,MIMIC,GYROBALL,
+Pokemon = AIPOM,43
+    Moves = TICKLE,NASTYPLOT,SANDATTACK,SCRATCH,
+Pokemon = OSHAWOTT,43
+    Moves = 
+#-------------------
+[VCLERKM,Franklin]
+Pokemon = SWADLOON,45
+    Moves = BUGBUZZ,GRASSWHISTLE,STICKYWEB,PROTECT,
+Pokemon = SLURPUFF,44
+    Moves = COTTONGUARD,ENERGYBALL,DRAININGKISS,ENDEAVOR,
+#-------------------
+[VJANITOR,Herbert]
+Pokemon = LINOONE,45
+    Moves = 
+#-------------------
+[VCLERKF,Mamie]
+Pokemon = KIRLIA,44
+    Moves = HYPNOSIS,CHARM,FUTURESIGHT,MAGICALLEAF,
+Pokemon = STEENEE,44
+    Moves = CAPTIVATE,MAGICALLEAF,AROMATICMIST,DOUBLESLAP,
+#-------------------
+[VCLERKM,Lloyd]
+Pokemon = EXEGGCUTE,43
+    Moves = 
+Pokemon = BUNNELBY,43
+    Moves = 
+Pokemon = WIMPOD,42
+    Moves = STRUGGLEBUG,SANDATTACK,SURF,
+#-------------------
+[VAIDE,Intern]
+Pokemon = BUDEW,38
+    Moves = 
+Pokemon = RALTS,40
+    Moves = 
+Pokemon = SPEWPA,39
+    Moves = 
+Pokemon = ROGGENROLA,38
+    Moves = 
+Pokemon = IGGLYBUFF,40
+    Moves = 
+#-------------------
+[VIFISHERMAN,Carlos]
+Pokemon = WISHIWASHI,44
+    Moves = BEATUP,AQUATAIL,SOAK,TEARFULLOOK,
+Pokemon = WHISCASH,45
+    Moves = MAGNITUDE,MUDDYWATER,REST,SNORE,
+Pokemon = QWILFISH,45
+    Moves = POISONJAB,PINMISSILE,REVENGE,MINIMIZE,
+Pokemon = SEAKING,46
+    Moves = SOAK,HORNDRILL,AGILITY,SUPERSONIC,
+#-------------------
+[IVPYRO,Sergei]
+Pokemon = TORKOAL,45
+    Moves = HEATWAVE,AMNESIA,SMOKESCREEN,SMOG,
+    AbilityIndex = 1
+Pokemon = SIMISEAR,45
+    Moves = FIREBLAST,ACROBATICS,YAWN,WORKUP,
+Pokemon = FLETCHINDER,47
+    Moves = ACROBATICS,FLAMECHARGE,ROOST,AERIALACE,
+#-------------------
+[VHOOPSTER,Jordan]
+Pokemon = ELECTRODE,45
+    Moves = DISCHARGE,SWIFT,MAGNETRISE,LIGHTSCREEN,
+Pokemon = SAWK,44
+    Moves = BULKUP,LOWSWEEP,ROCKTOMB,RETALIATE,
+Pokemon = SLAKING,42
+    Moves = YAWN,SLACKOFF,SWAGGER,COUNTER,
+#-------------------
+[POKEMONTRAINER_Cirrus,Cirrus,13]
+Pokemon = TENTACRUEL,46
+    Item = POISONBARB
+    Moves = WATERPULSE,VENOSHOCK,HEX,TOXICSPIKES,
+    AbilityIndex = 0
+    Nature = MILD
+    IV = 24,24,24,24,24,24
+    Gender = female
+    Shiny = FALSE
+Pokemon = BANETTE,47
+    Item = SPELLTAG
+    Moves = SUCKERPUNCH,SHADOWSNEAK,WILLOWISP,HEX,
+    AbilityIndex = 2
+    Nature = JOLLY
+    IV = 19,19,19,19,19,19
+    Gender = male
+    Shiny = FALSE
+Pokemon = CROBAT,46
+    Item = FLYINGGEM
+    Moves = ACROBATICS,UTURN,CONFUSERAY,POISONFANG,
+    AbilityIndex = 2
+    Nature = HASTY
+    IV = 27,27,27,27,27,27
+    Gender = male
+    Shiny = FALSE
+Pokemon = PANGORO,45
+    Item = HARDSTONE
+    Moves = ROCKTOMB,LOWSWEEP,CRUNCH,CIRCLETHROW,
+    AbilityIndex = 1
+    Nature = BRAVE
+    IV = 26,26,26,26,26,26
+    Gender = male
+    Shiny = FALSE
+Pokemon = LARVESTA,48
+    Moves = HEATBREAK,LEECHLIFE,FLAMECHARGE,MORNINGSUN,
+    AbilityIndex = 0
+    Nature = NAUGHTY
+    IV = 30,30,30,30,30,30
+    Gender = female
+    Shiny = FALSE
+#-------------------
+[POKEMONTRAINER_Cirrus,Cirrus,14]
+Pokemon = TENTACRUEL,45
+    Item = POISONBARB
+    Moves = WATERPULSE,VENOSHOCK,HEX,TOXICSPIKES,
+    AbilityIndex = 0
+    Nature = MILD
+    IV = 24,24,24,24,24,24
+    Gender = female
+    Shiny = FALSE
+Pokemon = BANETTE,47
+    Item = SPELLTAG
+    Moves = SUCKERPUNCH,SHADOWSNEAK,WILLOWISP,HEX,
+    AbilityIndex = 2
+    Nature = JOLLY
+    IV = 19,19,19,19,19,19
+    Gender = male
+    Shiny = FALSE
+Pokemon = CROBAT,46
+    Item = FLYINGGEM
+    Moves = ACROBATICS,UTURN,CONFUSERAY,POISONFANG,
+    AbilityIndex = 2
+    Nature = HASTY
+    IV = 27,27,27,27,27,27
+    Gender = male
+    Shiny = FALSE
+Pokemon = PANGORO,45
+    Item = HARDSTONE
+    Moves = ROCKTOMB,LOWSWEEP,CRUNCH,CIRCLETHROW,
+    AbilityIndex = 1
+    Nature = BRAVE
+    IV = 26,26,26,26,26,26
+    Gender = male
+    Shiny = FALSE
+Pokemon = METAGROSS,47
+    Moves = ZENHEADBUTT,HAMMERARM,ROCKTOMB,METEORMASH,
+    AbilityIndex = 1
+    Nature = SASSY
+    IV = 30,30,30,30,30,30
+#-------------------
+[POKEMONTRAINER_Cirrus,Cirrus,15]
+Pokemon = TENTACRUEL,46
+    Item = POISONBARB
+    Moves = WATERPULSE,VENOSHOCK,HEX,TOXICSPIKES,
+    AbilityIndex = 0
+    Nature = MILD
+    IV = 24,24,24,24,24,24
+    Gender = female
+    Shiny = FALSE
+Pokemon = BANETTE,47
+    Item = SPELLTAG
+    Moves = SUCKERPUNCH,SHADOWSNEAK,WILLOWISP,HEX,
+    AbilityIndex = 2
+    Nature = JOLLY
+    IV = 19,19,19,19,19,19
+    Gender = male
+    Shiny = FALSE
+Pokemon = CROBAT,46
+    Item = FLYINGGEM
+    Moves = ACROBATICS,UTURN,CONFUSERAY,POISONFANG,
+    AbilityIndex = 2
+    Nature = HASTY
+    IV = 27,27,27,27,27,27
+    Gender = male
+    Shiny = FALSE
+Pokemon = PANGORO,45
+    Item = HARDSTONE
+    Moves = ROCKTOMB,LOWSWEEP,CRUNCH,CIRCLETHROW,
+    AbilityIndex = 1
+    Nature = BRAVE
+    IV = 26,26,26,26,26,26
+    Gender = male
+    Shiny = FALSE
+Pokemon = TOGEKISS,47
+    Moves = METRONOME,ANCIENTPOWER,NASTYPLOT,WISH,
+    AbilityIndex = 1
+    Nature = CALM
+    IV = 30,30,30,30,30,30
+    Gender = female
+    Shiny = FALSE
+#-------------------
+[GABRIEL,Gabriel]
+Pokemon = SLAKING,48
+    Item = HARDSTONE
+    Moves = FLING,BODYSLAM,ROCKTOMB,FLAIL,
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 30,30,30,30,30,30
+    Happiness = 255
+    Ball = ULTRABALL
+    Gender = female
+    Shiny = FALSE
+    Happiness = 255
+Pokemon = CHANDELURE,49
+    Item = POWERHERB
+    Moves = INFERNO,HEX,SHOCKWAVE,SOLARBEAM,
+    AbilityIndex = 2
+    Nature = RASH
+    IV = 28,28,28,28,28,28
+    Happiness = 255
+    Ball = ULTRABALL
+    Happiness = 255
+Pokemon = RAMPARDOS,48
+    Item = LIFEORB
+    Moves = TITANBASH,ZENHEADBUTT,HEADBUTT,CRUNCH,
+    AbilityIndex = 2
+    Nature = NAUGHTY
+    IV = 26,26,26,26,26,26
+    Happiness = 255
+    Ball = ULTRABALL
+    Gender = male
+    Shiny = FALSE
+    Happiness = 255
+Pokemon = PORYGONZ,49
+    Item = EXPERTBELT
+    Moves = SWIFT,DISCHARGE,PSYBEAM,NASTYPLOT,
+    AbilityIndex = 0
+    Nature = MODEST
+    IV = 30,30,30,30,30,30
+    Happiness = 255
+    Ball = ULTRABALL
+    Happiness = 255
+Pokemon = HERACROSS,49
+    Item = HERACRONITE
+    Moves = ROCKBLAST,CLOSECOMBAT,BULLETSEED,PINMISSILE,
+    AbilityIndex = 1
+    Nature = BRAVE
+    IV = 30,30,30,30,30,30
+    Happiness = 255
+    Ball = ULTRABALL
+    Gender = male
+    Shiny = FALSE
+    Happiness = 255
+#-------------------
+[POKEMONTRAINER_Cirrus,Cirrus,10]
+Pokemon = TENTACRUEL,44
+    Item = POISONBARB
+    Moves = WATERPULSE,POISONJAB,ACIDSPRAY,HEX,
+    AbilityIndex = 0
+    Nature = MILD
+    IV = 24,24,24,24,24,24
+    Gender = female
+    Shiny = FALSE
+Pokemon = MEDICHAM,43
+    Item = TWISTEDSPOON
+    Moves = HIGHJUMPKICK,CONFUSION,ACUPRESSURE,DETECT,
+    AbilityIndex = 0
+    Nature = IMPISH
+    IV = 25,25,25,25,25,25
+    Gender = male
+    Shiny = FALSE
+Pokemon = BANETTE,44
+    Item = SPELLTAG
+    Moves = SUCKERPUNCH,SHADOWSNEAK,WILLOWISP,NIGHTSHADE,
+    AbilityIndex = 2
+    Nature = JOLLY
+    IV = 19,19,19,19,19,19
+    Gender = male
+    Shiny = FALSE
+Pokemon = CROBAT,44
+    Moves = ACROBATICS,BITE,CONFUSERAY,POISONFANG,
+    AbilityIndex = 2
+    Nature = HASTY
+    IV = 27,27,27,27,27,27
+    Gender = male
+    Shiny = FALSE
+Pokemon = LARVESTA,45
+    Item = CHARCOAL
+    Moves = BUGBITE,FLAMECHARGE,TAKEDOWN,UTURN,
+    AbilityIndex = 0
+    Nature = NAIVE
+    IV = 22,22,22,22,22,22
+    Gender = female
+    Shiny = FALSE
+#-------------------
+[POKEMONTRAINER_Cirrus,Cirrus,11]
+Pokemon = TENTACRUEL,44
+    Item = POISONBARB
+    Moves = WATERPULSE,POISONJAB,ACIDSPRAY,HEX,
+    AbilityIndex = 0
+    Nature = MILD
+    IV = 24,24,24,24,24,24
+    Gender = female
+    Shiny = FALSE
+Pokemon = MEDICHAM,43
+    Item = TWISTEDSPOON
+    Moves = HIGHJUMPKICK,CONFUSION,ACUPRESSURE,DETECT,
+    AbilityIndex = 0
+    Nature = IMPISH
+    IV = 25,25,25,25,25,25
+    Gender = male
+    Shiny = FALSE
+Pokemon = BANETTE,44
+    Item = SPELLTAG
+    Moves = SUCKERPUNCH,SHADOWSNEAK,WILLOWISP,NIGHTSHADE,
+    AbilityIndex = 2
+    Nature = JOLLY
+    IV = 19,19,19,19,19,19
+    Gender = male
+    Shiny = FALSE
+Pokemon = CROBAT,44
+    Moves = ACROBATICS,BITE,CONFUSERAY,POISONFANG,
+    AbilityIndex = 2
+    Nature = HASTY
+    IV = 27,27,27,27,27,27
+    Gender = male
+    Shiny = FALSE
+Pokemon = METANG,44
+    Moves = ZENHEADBUTT,BULLETPUNCH,ROCKTOMB,METEORMASH,
+    AbilityIndex = 1
+    Nature = SASSY
+    IV = 22,22,22,22,22,22
+#-------------------
+[POKEMONTRAINER_Cirrus,Cirrus,12]
+Pokemon = TENTACRUEL,44
+    Item = POISONBARB
+    Moves = WATERPULSE,POISONJAB,ACIDSPRAY,HEX,
+    AbilityIndex = 0
+    Nature = MILD
+    IV = 24,24,24,24,24,24
+    Gender = female
+    Shiny = FALSE
+Pokemon = MEDICHAM,43
+    Item = TWISTEDSPOON
+    Moves = HIGHJUMPKICK,CONFUSION,ACUPRESSURE,DETECT,
+    AbilityIndex = 0
+    Nature = IMPISH
+    IV = 25,25,25,25,25,25
+    Gender = male
+    Shiny = FALSE
+Pokemon = BANETTE,44
+    Item = SPELLTAG
+    Moves = SUCKERPUNCH,SHADOWSNEAK,WILLOWISP,NIGHTSHADE,
+    AbilityIndex = 2
+    Nature = JOLLY
+    IV = 19,19,19,19,19,19
+    Gender = male
+    Shiny = FALSE
+Pokemon = CROBAT,44
+    Moves = ACROBATICS,BITE,CONFUSERAY,POISONFANG,
+    AbilityIndex = 2
+    Nature = HASTY
+    IV = 27,27,27,27,27,27
+    Gender = male
+    Shiny = FALSE
+Pokemon = TOGEKISS,44
+    Moves = SHOCKWAVE,ANCIENTPOWER,FAIRYWIND,WISH,
+    AbilityIndex = 1
+    Nature = CALM
+    IV = 22,22,22,22,22,22
+    Gender = female
+    Shiny = FALSE
+#-------------------
+[MUSHARNA,Musharna]
+Pokemon = CLAYDOL,1
+    Moves = HYPNOSIS,NIGHTMARE,DISABLE,TRICKROOM,
+Pokemon = CLAYDOL,1
+    Moves = HYPNOSIS,NIGHTMARE,DISABLE,TRICKROOM,
+Pokemon = KROKOROK,1
+    Moves = DARKVOID,FISSURE,FOULPLAY,DREAMEATER,
+Pokemon = KROKOROK,1
+    Moves = DARKVOID,FISSURE,FOULPLAY,DREAMEATER,
+Pokemon = MUSHARNA,78
+    Item = LUMBERRY
+    Moves = DARKVOID,DREAMEATER,SPACIALREND,AURASPHERE,
+#-------------------
+[CELESTIALM,Grunt,7]
+Pokemon = LUNATONE,45
+    Moves = 
+Pokemon = NOCTOWL,46
+    Moves = 
+#-------------------
+[CELESTIALM,Grunt,8]
+Pokemon = SABLEYE,46
+    Moves = 
+Pokemon = GRANBULL,45
+    Moves = 
+#-------------------
+[CELESTIALF,Grunt,6]
+Pokemon = ESPURR,45
+    Moves = 
+Pokemon = VENOMOTH,45
+    Moves = 
+Pokemon = WORMADAM,45
+    Moves = 
+#-------------------
+[CELESTIALM,Grunt,9]
+Pokemon = ARIADOS,47
+    Moves = 
+Pokemon = NOCTOWL,46
+    Moves = 
+#-------------------
+[CELESTIALM,Grunt,10]
+Pokemon = CLAYDOL,48
+    Moves = 
+#-------------------
+[CELESTIALF,Grunt,7]
+Pokemon = SOLROCK,47
+    Moves = 
+Pokemon = BRONZOR,47
+    Moves = 
+#-------------------
+[CELESTIALF,Grunt,8]
+Pokemon = LUNATONE,47
+    Moves = 
+Pokemon = SABLEYE,47
+    Moves = 
+#-------------------
+[CELESTIALF,Grunt,9]
+Pokemon = CLAYDOL,47
+    Moves = 
+Pokemon = VENOMOTH,48
+    Moves = 
+Pokemon = LUNATONE,47
+    Moves = 
+Pokemon = ARIADOS,48
+    Moves = 
+#-------------------
+[CELESTIALM,Grunt,10]
+Pokemon = CLAYDOL,47
+    Moves = 
+Pokemon = CARBINK,48
+    Moves = 
+#-------------------
+[CELESTIALF,Grunt,10]
+Pokemon = SABLEYE,48
+    Moves = 
+Pokemon = MEOWSTIC,47
+    Moves = 
+#-------------------
+[CELESTIALM,Grunt,11]
+Pokemon = ARIADOS,48
+    Moves = 
+Pokemon = VENOMOTH,47
+    Moves = 
+Pokemon = NOCTOWL,47
+    Moves = 
+#-------------------
+[CELESTIALM,Grunt,12]
+Pokemon = LUNATONE,48
+    Moves = 
+Pokemon = MEOWSTIC,48
+    Moves = 
+#-------------------
+[CELESTIALF,Grunt,11]
+Pokemon = BALTOY,48
+    Moves = 
+Pokemon = VENOMOTH,46
+    Moves = 
+#-------------------
+[CELESTIALF,Grunt,12]
+Pokemon = CLAYDOL,48
+    Moves = 
+#-------------------
+[POKEMONTRAINER_CASSANDRA,Cassandra,6]
+Pokemon = CLEFABLE,52
+    Item = FIREGEM
+    Moves = COSMICPOWER,MOONBLAST,MOONLIGHT,INCINERATE,
+    AbilityIndex = 1
+    Nature = BOLD
+    IV = 31,31,31,31,31,31
+    Happiness = 255
+    Gender = female
+    Shiny = FALSE
+    Happiness = 255
+Pokemon = UMBREON,51
+    Item = SILKSCARF
+    Moves = MOONLIGHT,QUICKATTACK,YAWN,PAYBACK,
+    AbilityIndex = 1
+    Nature = JOLLY
+    IV = 30,30,30,30,30,30
+    Gender = female
+    Shiny = FALSE
+Pokemon = SWANNA,52
+    Item = MYSTICWATER
+    Moves = ROOST,AIRSLASH,TAILWIND,WATERPULSE,
+    AbilityIndex = 2
+    Nature = RELAXED
+    IV = 24,24,24,24,24,24
+    Gender = male
+    Shiny = FALSE
+Pokemon = MUSHARNA,51
+    Item = TWISTEDSPOON
+    Moves = PSYCHIC,CALMMIND,CHARGEBEAM,MOONLIGHT,
+    AbilityIndex = 2
+    Nature = MODEST
+    IV = 27,27,27,27,27,27
+    Gender = female
+    Shiny = FALSE
+Pokemon = AMPHAROS,52
+    Item = QUICKCLAW
+    Moves = POWERGEM,SIGNALBEAM,CONFUSERAY,CHARGEBEAM,
+    AbilityIndex = 0
+    Nature = QUIET
+    IV = 20,20,20,20,20,20
+    Gender = male
+    Shiny = FALSE
+Pokemon = GOLURK,47
+    Moves = MAGNITUDE,HEAVYSLAM,DYNAMICPUNCH,ROCKTOMB,
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+#-------------------
+[CELESTIALF,Grunt,13]
+Pokemon = VENOMOTH,48
+    Moves = 
+Pokemon = CLAYDOL,48
+    Moves = 
+#-------------------
+[CELESTIALM,Grunt,13]
+Pokemon = ARIADOS,48
+    Moves = 
+Pokemon = WORMADAM,48
+    Moves = 
+#-------------------
+[CELESTIALF,Grunt,14]
+Pokemon = NOCTOWL,46
+    Moves = 
+Pokemon = MEOWSTIC,47
+    Moves = 
+#-------------------
+[CELESTIALF,Grunt,15]
+Pokemon = WORMADAM,48
+    Moves = 
+#-------------------
+[CELESTIALM,Grunt,14]
+Pokemon = SPINARAK,44
+    Moves = 
+Pokemon = BALTOY,44
+    Moves = 
+Pokemon = HOOTHOOT,44
+    Moves = 
+Pokemon = PURRLOIN,44
+    Moves = 
+#-------------------
+[POKEMONTRAINER_Robin,Robin,3]
+Pokemon = TALONFLAME,51
+    Item = CHARCOAL
+    Moves = FLAMECHARGE,ROOST,HEATBREAK,PLUCK,
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 30,30,30,30,30,30
+    Happiness = 135
+    Gender = male
+    Shiny = FALSE
+    Happiness = 135
+Pokemon = PIDGEOT,50
+    Item = SILKSCARF
+    Moves = QUICKATTACK,AIRSLASH,ROOST,UTURN,
+    AbilityIndex = 0
+    Nature = MILD
+    IV = 29,29,29,29,29,29
+    Happiness = 150
+    Gender = male
+    Shiny = FALSE
+    Happiness = 150
+Pokemon = JUMPLUFF,50
+    Item = FLYINGGEM
+    Moves = ACROBATICS,DRAININGROWTH,SLEEPPOWDER,BULLETSEED,
+    AbilityIndex = 2
+    Nature = IMPISH
+    IV = 22,22,22,22,22,22
+    Happiness = 145
+    Gender = female
+    Shiny = FALSE
+    Happiness = 145
+Pokemon = SWANNA,49
+    Moves = ROOST,AIRSLASH,SLASHINGGALE,WATERPULSE,
+    AbilityIndex = 2
+    Nature = MODEST
+    IV = 23,23,23,23,23,23
+    Happiness = 155
+    Gender = female
+    Shiny = FALSE
+    Happiness = 155
+#-------------------
+[CELESTIALF,Grunt,16]
+Pokemon = MEOWSTIC,47
+    Moves = 
+Pokemon = NIDORINA,48
+    Moves = 
+Pokemon = VENOMOTH,47
+    Moves = 
+#-------------------
+[CELESTIALM,Grunt,15]
+Pokemon = LUNATONE,47
+    Moves = 
+Pokemon = SABLEYE,49
+    Moves = 
+#-------------------
+[CELESTIALM,Grunt,16]
+Pokemon = ARIADOS,48
+    Moves = 
+Pokemon = SOLROCK,47
+    Moves = 
+#-------------------
+[CELESTIALF,Grunt,17]
+Pokemon = CLAYDOL,47
+    Moves = 
+Pokemon = NOCTOWL,48
+    Moves = 
+#-------------------
+[VSHADOW,Tetrad]
+Pokemon = PAWNIARD,49
+    Moves = FEINTATTACK,SCARYFACE,METALCLAW,SLASH,
+Pokemon = MIMIKYU,49
+    Moves = CHARM,SHADOWSNEAK,PLAYROUGH,MIMIC,
+Pokemon = BANETTE,49
+    Moves = WILLOWISP,SHADOWBALL,PSYCHIC,SUCKERPUNCH,
+#-------------------
+[VSHADOW,Tetrad,2]
+Pokemon = PAWNIARD,49
+    Moves = FEINTATTACK,SCARYFACE,METALCLAW,SLASH,
+Pokemon = MIMIKYU,49
+    Moves = CHARM,SHADOWSNEAK,PLAYROUGH,MIMIC,
+Pokemon = ABSOL,49
+    Moves = SWORDSDANCE,SLASH,NIGHTSLASH,FUTURESIGHT,
+#-------------------
+[VSHADOW,Tetrad,3]
+Pokemon = PAWNIARD,49
+    Moves = FEINTATTACK,SCARYFACE,METALCLAW,SLASH,
+Pokemon = MIMIKYU,49
+    Moves = CHARM,SHADOWSNEAK,PLAYROUGH,MIMIC,
+Pokemon = ACCELGOR,49
+    Moves = BUGBUZZ,MEFIRST,SWIFT,GIGADRAIN,
+#-------------------
+[VSHADOW,Tetrad,4]
+Pokemon = PAWNIARD,49
+    Moves = FEINTATTACK,SCARYFACE,METALCLAW,SLASH,
+Pokemon = MIMIKYU,49
+    Moves = CHARM,SHADOWSNEAK,PLAYROUGH,MIMIC,
+Pokemon = FROGADIER,49
+    Moves = BOUNCE,WATERPULSE,SMACKDOWN,UTURN,
+#-------------------
+[CHROME,Chrome]
+Pokemon = AGGRON,98
+    Item = LUMBERRY
+    Moves = HEADSMASH,HEAVYSLAM,DOUBLEEDGE,
+    AbilityIndex = 1
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    Happiness = 250
+    Gender = female
+    Shiny = FALSE
+    Happiness = 250
+#-------------------
+[INDIGO,Indigo]
+Pokemon = GOLEM,51
+    Item = HARDSTONE
+    Moves = ROCKBLAST,EARTHQUAKE,EXPLOSION,STEALTHROCK,
+    AbilityIndex = 1
+    Nature = RELAXED
+    IV = 28,28,28,28,28,28
+    Happiness = 255
+    Gender = female
+    Shiny = FALSE
+    Happiness = 255
+Pokemon = TYPHLOSION,51
+    Item = FIGHTINGGEM
+    Moves = FLAMETHROWER,LAVAPLUME,POWERUPPUNCH,QUICKATTACK,
+    AbilityIndex = 0
+    Nature = LONELY
+    IV = 27,27,27,27,27,27
+    Happiness = 210
+    Gender = female
+    Shiny = FALSE
+    Happiness = 210
+Pokemon = NOCTOWL,53
+    Moves = AIRSLASH,UPROAR,MOONBLAST,HYPNOSIS,
+    AbilityIndex = 2
+    Nature = MODEST
+    IV = 30,30,30,30,30,30
+    Happiness = 255
+    Gender = female
+    Shiny = FALSE
+    Happiness = 255
+Pokemon = SAMUROTT,51
+    Moves = RETALIATE,AQUATAIL,AQUAJET,REVENGE,
+    AbilityIndex = 0
+    Nature = CALM
+    IV = 27,27,27,27,27,27
+    Happiness = 225
+    Gender = female
+    Shiny = FALSE
+    Happiness = 225
+Pokemon = MEOWSTIC,52
+    Moves = SUCKERPUNCH,PSYCHIC,CHARM,FAKEOUT,
+    AbilityIndex = 2
+    Nature = GENTLE
+    IV = 30,30,30,30,30,30
+    Happiness = 255
+    Gender = female
+    Shiny = FALSE
+    Happiness = 255
+Pokemon = MEGANIUM,51
+    Item = PERSIMBERRY
+    Moves = BODYSLAM,PETALDANCE,NATURALGIFT,MAGICALLEAF,
+    AbilityIndex = 1
+    Nature = RELAXED
+    IV = 26,26,26,26,26,26
+    Happiness = 245
+    Gender = female
+    Shiny = FALSE
+    Happiness = 245
+#-------------------
+[TECTONICM,Grunt,23]
+Pokemon = KLANG,46
+    Moves = 
+Pokemon = FEAROW,47
+    Moves = 
+Pokemon = MRMIME,46
+    Moves = 
+#-------------------
+[VCLERKMT,Reginald]
+Pokemon = KADABRA,47
+    Moves = 
+Pokemon = GOLISOPOD,46
+    Moves = FIRSTIMPRESSION,IRONDEFENSE,SWORDSDANCE,ROCKSMASH,
+#-------------------
+[VCLERKM,Davis]
+Pokemon = DUSTOX,46
+    Moves = QUIVERDANCE,WHIRLWIND,PROTECT,VENOSHOCK,
+Pokemon = LOMBRE,47
+    Moves = ABSORB,HYDROPUMP,FAKEOUT,FURYSWIPES,
+Pokemon = DELCATTY,47
+    Moves = FAKEOUT,ATTRACT,SING,WAKEUPSLAP,
+#-------------------
+[VJANITOR,Ernie]
+Pokemon = WYNAUT,48
+    Moves = 
+#-------------------
+[VCLERKF,Wanda]
+Pokemon = DEWOTT,47
+    Moves = AQUATAIL,ENCORE,REVENGE,AQUAJET,
+Pokemon = GROTLE,47
+    Moves = 
+#-------------------
+[VSCIENTISTF,Kaliene]
+Pokemon = SAWSBUCK,49
+    Moves = HORNLEECH,JUMPKICK,TAKEDOWN,CHARM,
+#-------------------
+[VCLERKF,Bette]
+Pokemon = ARIADOS,48
+    Moves = 
+Pokemon = GALVANTULA,47
+    Moves = 
+#-------------------
+[VIPOKEFANM,Harold]
+Pokemon = ROCKRUFF,46
+    Moves = STEALTHROCK,CRUNCH,ROCKSLIDE,SANDATTACK,
+Pokemon = LILLIPUP,46
+    Moves = PLAYROUGH,GIGAIMPACT,BABYDOLLEYES,RETALIATE,
+Pokemon = POOCHYENA,46
+    Moves = SUCKERPUNCH,PLAYROUGH,YAWN,SWAGGER,
+Pokemon = GROWLITHE,46
+    Moves = FLAREBLITZ,CRUNCH,OUTRAGE,RETALIATE,
+#-------------------
+[VJANITOR,Polo]
+Pokemon = LINOONE,47
+    Moves = 
+Pokemon = AMBIPOM,46
+    Moves = NASTYPLOT,AGILITY,TICKLE,BATONPASS,
+Pokemon = SIMIPOUR,46
+    Moves = SCALD,ACROBATICS,CRUNCH,LICK,
+#-------------------
+[TCAPTAINM,Captain]
+Pokemon = ARAQUANID,49
+    Item = SITRUSBERRY
+    Moves = BUBBLEBEAM,INFESTATION,LUNGE,SPIDERWEB,
+    AbilityIndex = 0
+Pokemon = WEEZING,49
+    Moves = DESTINYBOND,SLUDGEBOMB,SMOKESCREEN,THIEF,
+Pokemon = EXPLOUD,50
+    Item = SILKSCARF
+    Moves = HYPERVOICE,REST,SLEEPTALK,CRUNCH,
+Pokemon = DRAGALGE,49
+    Moves = HYDROPUMP,SLUDGEBOMB,TWISTER,DOUBLETEAM,
+    AbilityIndex = 2
+Pokemon = KROOKODILE,49
+    Item = BLACKGLASSES
+    Moves = FOULPLAY,DIG,SWAGGER,CRUNCH,
+    AbilityIndex = 0
+Pokemon = ELECTRODE,51
+    Moves = DISCHARGE,MAGNETRISE,
+    AbilityIndex = 1
+#-------------------
+[VSCIENTISTM,Lowry]
+Pokemon = RATICATE,48
+    Moves = PURSUIT,SUPERFANG,DOUBLEEDGE,QUICKATTACK,
+Pokemon = RATICATE,48
+    Item = PECHABERRY
+    Moves = ENDEAVOR,SUPERFANG,SUCKERPUNCH,HYPERFANG,
+Pokemon = DEDENNE,48
+    Moves = NUZZLE,PLAYROUGH,REST,SNORE,
+#-------------------
+[VIJOGGER,Daniel]
+Pokemon = RAPIDASH,45
+    Moves = 
+Pokemon = ROCKRUFF,46
+    Moves = 
+#-------------------
+[VIPSYCHICF,Erin]
+Pokemon = MEDICHAM,45
+    Moves = 
+Pokemon = JYNX,45
+    Moves = 
+#-------------------
+[VIPOLICEMAN,Gerald]
+Pokemon = UNFEZANT,46
+    Moves = 
+#-------------------
+[IVFIGHTERF,Jae]
+Pokemon = MEDICHAM,45
+    Moves = 
+Pokemon = CRABRAWLER,45
+    Moves = 
+#-------------------
+[IVTUBERF,Zoey]
+Pokemon = DRIFLOON,46
+    Moves = 
+Pokemon = SANDYGAST,45
+    Moves = 
+#-------------------
+[IVTUBERM,Marcus]
+Pokemon = GEODUDE,46
+    Moves = 
+Pokemon = PELIPPER,45
+    Moves = 
+#-------------------
+[VIPARASOL,Libby]
+Pokemon = PELIPPER,45
+    Moves = 
+Pokemon = ABSOL,45
+    Moves = 
+Pokemon = NINETALES,45
+    Moves = 
+#-------------------
+[VSWIMMERF,Rebecca]
+Pokemon = TENTACRUEL,45
+    Moves = 
+Pokemon = DEWGONG,45
+    Moves = 
+#-------------------
+[IVSWIMMERM,Bernard]
+Pokemon = SEALEO,45
+    Moves = 
+Pokemon = WARTORTLE,45
+    Moves = 
+Pokemon = OCTILLERY,44
+    Moves = 
+#-------------------
+[IVMUSICIAN,Drew]
+Pokemon = LOUDRED,46
+    Moves = 
+Pokemon = FLAAFFY,46
+    Moves = 
+#-------------------
+[IVPYRO,Fernando]
+Pokemon = SIMISEAR,48
+    Moves = 
+Pokemon = NINETALES,48
+    Moves = 
+Pokemon = TYPHLOSION,47
+    Moves = 
+#-------------------
+[IVBUGCATCHER,Han]
+Pokemon = SPINARAK,6
+    Moves = 
+#-------------------
+[IVPICNICKER,Shai]
+Pokemon = ODDISH,6
+    Moves = 
+#-------------------
+[VLASS,Paulette]
+Pokemon = MISDREAVUS,46
+    Moves = PERISHSONG,MEANLOOK,PAINSPLIT,SHADOWBALL,
+Pokemon = PURUGLY,44
+    Moves = 
+#-------------------
+[VDANCER,Reggie]
+Pokemon = LUDICOLO,48
+    Moves = BUBBLEBEAM,ZENHEADBUTT,KNOCKOFF,NATUREPOWER,
+Pokemon = LOPUNNY,49
+    Moves = CHARM,DIZZYPUNCH,JUMPKICK,AGILITY,
+#-------------------
+[VIBEAUTY,Ayomi]
+Pokemon = ELECTRIKE,50
+    Moves = 
+Pokemon = HOUNDOUR,50
+    Moves = 
+Pokemon = HERDIER,49
+    Moves = 
+#-------------------
+[VISOCIALITE,Debora]
+Pokemon = LUXIO,50
+    Moves = 
+Pokemon = PURUGLY,49
+    Moves = BODYSLAM,ASSIST,HYPNOSIS,SWAGGER,
+#-------------------
+[IVPYRO,Lazarus]
+Pokemon = HOUNDOOM,50
+    Moves = FLAMETHROWER,FOULPLAY,ROCKSMASH,EMBARGO,
+Pokemon = SIMISEAR,51
+    Moves = FIREBLAST,CRUNCH,ACROBATICS,ROCKTOMB,
+#-------------------
+[VCUEBALL,Jet]
+Pokemon = RATICATE,50
+    Moves = SUPERFANG,ENDEAVOR,SUCKERPUNCH,PURSUIT,
+Pokemon = MURKROW,51
+    Moves = TAILWIND,HAZE,PLUCK,NIGHTSHADE,
+Pokemon = MIGHTYENA,50
+    Moves = YAWN,CRUNCH,SWAGGER,DIG,
+#-------------------
+#-------------------
+#-------------------
+#-------------------
+#-------------------
+#-------------------
+#-------------------
+#-------------------
+#-------------------
+#-------------------
+#-------------------
+#-------------------
